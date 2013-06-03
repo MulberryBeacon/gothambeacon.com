@@ -9,7 +9,7 @@
         <title>{{ page.title }}</title>
         <meta name="description" content="">
         <!--<meta name="viewport" content="width=device-width">-->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta navbarme="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
@@ -18,6 +18,7 @@
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="/css/bootstrap.css">
         <link rel="stylesheet" href="/css/bootstrap-responsive.css">
+        <link rel="stylesheet" href="/css/custom.css">
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -46,15 +47,31 @@
 
             {{ content }}
 
-            <hr>
-
             <footer>
-                <a class="btn" href="http://coderwall.com/mulberrybeacon" target="_blank">Coderwall</a>
-                <a class="btn" href="https://geekli.st/MulberryBeacon" target="_blank">Geeklist</a>
-                <a class="btn" href="http://github.com/MulberryBeacon" target="_blank">GitHub</a>
-                <a class="btn" href="http://plus.google.com/u/0/110281179271243191202" target="_blank">Google+</a>
-                <a class="btn" href="http://www.linkedin.com/in/mulberrybeacon" target="_blank">LinkedIn</a>
-                <a class="btn" href="http://twitter.com/MulberryBeacon" target="_blank">Twitter</a>
+                <hr>
+                <div class="row">
+                    <div class="span8">
+                        <a class="btn" href="http://coderwall.com/mulberrybeacon" target="_blank">Coderwall</a>
+                        <a class="btn" href="https://geekli.st/MulberryBeacon" target="_blank">Geeklist</a>
+                        <a class="btn" href="http://github.com/MulberryBeacon" target="_blank">GitHub</a>
+                        <a class="btn" href="http://plus.google.com/u/0/110281179271243191202" target="_blank">Google+</a>
+                        <a class="btn" href="http://www.linkedin.com/in/mulberrybeacon" target="_blank">LinkedIn</a>
+                        <a class="btn" href="http://twitter.com/MulberryBeacon" target="_blank">Twitter</a>
+                    </div>
+                    <div class="span4">
+                        <a class="link-image" style="text-decoration:none" href="http://humanstxt.org" target="_blank">
+                            <img src="http://humanstxt.org/img/oficial-logos/humanstxt-isolated-blank.gif" alt="humans.txt" title="humans.txt - Share Your Humanity">
+                        </a>
+                        <a class="link-image" href="http://www.w3.org/html/logo/" target="_blank">
+                            <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3.png" width="65" height="31" alt="HTML5 Powered with CSS3 / Styling" title="HTML5 Powered with CSS3 / Styling">
+                        </a>
+                        <!--<a href="http://www.w3.org/html/logo" target="_blank"><img src="/img/html5-badge-h-css3.png" alt="HTML5"></a>-->
+                    </div>
+                </div>
+                <p class="text-center">
+                    <br>
+                    <small>&copy; Copyright 2012-2013, <a href="http://eduardoferreira.me">Eduardo Ferreira</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>. Design based on <a href="http://html5boilerplate.com">HTML5 Boilerplate</a> and <a href="http://twitter.github.io/bootstrap">Twitter Bootstrap</a>.<small>
+                <p>
             </footer>
         </div>
 
@@ -67,7 +84,7 @@
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
-            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            var _gaq=[['_setAccount','UA-32484218-1'],['_trackPageview']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
             g.src='//www.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));

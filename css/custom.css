@@ -1,3 +1,10 @@
+/* 
+ *Hide link underscoring in the footer section for humans.txt and HTML5
+ */
+a.link-image {
+    text-decoration: none;
+}
+
 .pure-button-success,
 .pure-button-error,
 .pure-button-warning,
