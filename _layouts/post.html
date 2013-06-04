@@ -11,15 +11,15 @@ layout: default
 			<p><strong>Share this!</strong></p>
 		</div>
 		<div class="span1">
-			<div class="g-plusone" data-href="{{ page.permalink }}" data-recommendations="false" data-size="medium"></div>
+			<div class="g-plusone" data-href="{{ site.baseurl }}{{ page.url }}" data-recommendations="false" data-size="medium"></div>
 		</div>
 		<div class="span1">
-			<a class="twitter-share-button" href="https://twitter.com/share" data-counturl="{{ page.permalink }}"
-				data-dnt="true" data-text="{{ page.title }}" data-url="{{ page.permalink }}"
+			<a class="twitter-share-button" href="https://twitter.com/share" data-counturl="{{ site.baseurl }}{{ page.url }}"
+				data-dnt="true" data-text="{{ page.title }}" data-url="{{ site.baseurl }}{{ page.url }}"
 				data-via="GothamBeacon"></a>
 		</div>
 		<div class="span1">
-			<div class="fb-like" data-href="{{ page.permalink }}" data-layout="button_count" data-send="false" data-show-faces="false" data-width="90"></div>
+			<div class="fb-like" data-href="{{ site.baseurl }}{{ page.url }}" data-layout="button_count" data-send="false" data-show-faces="false" data-width="90"></div>
 		</div>
 	</div>
 </div>
