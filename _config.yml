@@ -1,8 +1,9 @@
-name: Gotham Beacon
+name:      Gotham Beacon
 
-baseurl: http://gothambeacon.com
+baseurl:   /
+url:       http://gothambeacon.com
 permalink: pretty
 
-safe: true
-lsi: false
-pygments: true
+safe:      true
+lsi:       false
+pygments:  true

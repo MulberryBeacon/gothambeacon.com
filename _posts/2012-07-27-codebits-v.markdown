@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Codebits V"
-date:   2012-07-27 17:01:00
+layout:     post
+title:      "Codebits V"
+date:       2012-07-27 17:01:00
 categories: personal
 ---
 

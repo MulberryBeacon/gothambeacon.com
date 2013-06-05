@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "First post!"
-date:   2012-06-01 19:18:00
+layout:     post
+title:      "First post!"
+date:       2012-06-01 19:18:00
 categories: personal
 ---
 

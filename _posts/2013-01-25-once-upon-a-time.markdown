@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Once Upon a Time"
-date:   2013-01-25 15:44:00
-tags:   personal
+layout:     post
+title:      "Once Upon a Time"
+date:       2013-01-25 15:44:00
+categories: personal
 ---
 
 Let me tell you a story. Once upon a time there was a little boy.

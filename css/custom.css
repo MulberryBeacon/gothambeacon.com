@@ -18,8 +18,51 @@ pre.header-logo {
 }
 
 /*
- *
+ * Blog post
  */
-div.blog-post {
-	border: 2px;
+article {
+	color: #989eae;
+	background: #111;
+	border: 1px solid #444855;
+	border-radius: 7px;
+	margin: 10px 0;
+	-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+	-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+	box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+}
+
+.post-header {
+	border-top-right-radius: 7px;
+	border-top-left-radius: 7px;
+	border-bottom: 1px dotted #444855;
+	background: #202228;
+	color: #fff;
+	padding: 15px;
+	
+	/*display: block;
+	font-size: 1em;
+	line-height: 1.5em;*/
+
+	/*background: #3a3a3a;
+	padding: .5em .75em;*/
+
+	/*box-shadow: 0 1px 3px rgba(0,0,0,.3);*/
+	/*margin: .5em 0;*/
+}
+
+.post-content {
+	/*margin: 10px 10px;*/
+	padding: 10px 10px;
+}
+
+.post-footer {
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+	border-top: 1px dotted #444855;
+	color: #666c7f;
+	font-size: 12px;
+	line-height: 1.5em;
+	padding: 15px 10px 10px;
+	background: #202228;
+	display: block;
 }
