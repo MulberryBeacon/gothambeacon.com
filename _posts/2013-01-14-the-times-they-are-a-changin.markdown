@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Times They Are a Changin'" 
 date:       2013-01-14 14:24:00
-categories: personal
+categories: Personal
 ---
 
 Taxes

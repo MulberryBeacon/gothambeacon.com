@@ -2,7 +2,7 @@
 layout:     post
 title:      "Codebits V"
 date:       2012-07-27 17:01:00
-categories: personal
+categories: Personal
 ---
 
 I'd been planning to do this since the beginning of 2012, but so much happened over the past eight months that it sort of slipped down the pecking order on my ToDo list.

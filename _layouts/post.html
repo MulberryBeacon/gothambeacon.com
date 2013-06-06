@@ -4,31 +4,29 @@ layout: default
 
 <article>
 	<div class="post-header">
-		<h2>{{ page.title }}</h2>
-		<!--<div class="post-meta">
-			Posted by {{ site.authors }} on {{ page.date | date_to_string }}
-			<br>
-			Category: <a href="http://www.silvar.net/blog/google/" title="View all posts in {{ page.categories }}" rel="category tag">{{ page.categories }}</a>.
-		</div>-->
+		<h3 class="post-title">{{ page.title }}</h3>
+		{% assign category = page.categories[0] %}
+		{% assign up_category = category | capitalize %}
+		<small>Posted on {{ page.date | date_to_long_string }} under <a href="{{ site.baseurl }}{{ category }}" title="View all posts in {{ up_category }}" rel="category tag">{{ up_category }}</a>.</small>
 	</div>
 	<div class="post-content">
 		{{ content }}
 	</div>
 	<div class="post-footer">
+		{% capture url %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
 		<div class="row">
 			<div class="span2">
-				<p><strong>Share this!</strong></p>
+				<p>Share this!</p>
 			</div>
 			<div class="span1">
-				<div class="g-plusone" data-href="{{ site.baseurl }}{{ page.url }}" data-recommendations="false" data-size="medium"></div>
+				<div class="g-plusone" data-href="{{ url }}" data-recommendations="false" data-size="medium"></div>
 			</div>
 			<div class="span1">
-				<a class="twitter-share-button" href="https://twitter.com/share" data-counturl="{{ site.baseurl }}{{ page.url }}"
-					data-dnt="true" data-text="{{ page.title }}" data-url="{{ site.baseurl }}{{ page.url }}"
+				<a class="twitter-share-button" href="https://twitter.com/share" data-counturl="{{ url }}" data-dnt="true" data-text="{{ page.title }}" data-url="{{ url }}"
 					data-via="GothamBeacon"></a>
 			</div>
 			<div class="span1">
-				<div class="fb-like" data-href="{{ site.baseurl }}{{ page.url }}" data-layout="button_count" data-send="false" data-show-faces="false" data-width="90"></div>
+				<div class="fb-like" data-href="{{ url }}" data-layout="button_count" data-send="false" data-show-faces="false" data-width="90"></div>
 			</div>
 		</div>
 	</div>

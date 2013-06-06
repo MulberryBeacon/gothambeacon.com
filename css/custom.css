@@ -1,4 +1,11 @@
 /* 
+ * Top margin for the main content section
+ */
+.content-section {
+	margin-top: 30px;
+}
+
+/* 
  * Hide link underscoring in the footer section for humans.txt and HTML5
  */
 a.link-image {
@@ -18,51 +25,77 @@ pre.header-logo {
 }
 
 /*
- * Blog post
+ * Lighter theme for posts
  */
 article {
-	color: #989eae;
-	background: #111;
-	border: 1px solid #444855;
+	background: #FEFCFF;
+	border: 1px solid #1B1B1B;
 	border-radius: 7px;
-	margin: 10px 0;
+	color: #000000;
+	margin-bottom: 20px;
 	-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
 	-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
 	box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
 }
 
-.post-header {
-	border-top-right-radius: 7px;
-	border-top-left-radius: 7px;
-	border-bottom: 1px dotted #444855;
-	background: #202228;
-	color: #fff;
-	padding: 15px;
-	
-	/*display: block;
-	font-size: 1em;
-	line-height: 1.5em;*/
-
-	/*background: #3a3a3a;
-	padding: .5em .75em;*/
-
-	/*box-shadow: 0 1px 3px rgba(0,0,0,.3);*/
-	/*margin: .5em 0;*/
+article > div {
+	padding: 10px;
 }
 
-.post-content {
-	/*margin: 10px 10px;*/
-	padding: 10px 10px;
+.post-header,
+.post-footer {
+	background: #E5E4E2;
+}
+
+.post-header {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom: 1px dotted #1B1B1B;
+}
+
+.post-header h3.post-title {
+	margin: 0 0 -10px;
 }
 
 .post-footer {
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top: 1px dotted #1B1B1B;
+}
+
+/*
+ * Darker theme for posts
+ */
+article.post-dark {
+	background: #111111;
+	border: 1px solid #444855;
+	border-radius: 7px;
+	color: #989EAE;
+	margin-bottom: 20px;
+	-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+	-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+	box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+}
+
+.post-header-dark,
+.post-footer-dark {
+	background: #202228;
+}
+
+.post-header-dark {
+	border-top-right-radius: 7px;
+	border-top-left-radius: 7px;
+	border-bottom: 1px dotted #444855;
+	color: #666C7F;
+}
+
+.post-header-dark h3.post-title-dark {
+	margin: 0 0 -10px;
+}
+
+.post-footer-dark {
 	border-bottom-right-radius: 7px;
 	border-bottom-left-radius: 7px;
 	border-top: 1px dotted #444855;
-	color: #666c7f;
-	font-size: 12px;
-	line-height: 1.5em;
-	padding: 15px 10px 10px;
-	background: #202228;
-	display: block;
+	color: #666C7F;
 }
