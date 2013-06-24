@@ -43,7 +43,7 @@ div.no-content {
  * Lighter theme for posts
  */
 article {
-	background: #FEFCFF;
+	background: #FAFAFA; /* #FEFCFF*/
 	border: 1px solid #1B1B1B;
 	border-radius: 7px;
 	color: #000000;
