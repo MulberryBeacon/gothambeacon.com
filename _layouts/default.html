@@ -16,8 +16,8 @@
         <!-- Style sheets -->
         <link rel="stylesheet" href="/css/normalize.css">
         <link rel="stylesheet" href="/css/main.css">
-        <link rel="stylesheet" href="/css/bootstrap.css">
-        <link rel="stylesheet" href="/css/bootstrap-responsive.css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="/css/custom.css">
     </head>
     <body>
@@ -68,11 +68,12 @@
                 <div class="navbar navbar-inverse">
                     <div class="navbar-inner">
                         <ul class="nav">
-                            <li class="active"><a href="/">Home</a></li>
+                            <!--<li class="active"><a href="/">Home</a></li>-->
+                            <li><a href="/">Home</a></li>
                             <li class="divider-vertical"></li>
                             <li><a href="/personal/">Personal</a></li>
                             <li class="divider-vertical"></li>
-                            <li><a href="/tech/">Technology</a></li>
+                            <li><a href="/technology/">Technology</a></li>
                             <li class="divider-vertical"></li>
                             <li><a href="/sports/">Sports</a></li>
                         </ul>
@@ -81,13 +82,12 @@
             </header>
 
             <!-- ==================== Content section ==================== -->
-            <div class="row content-section">
+            <div class="row">
+                <div class="span2"></div>
                 <div class="span8">
                     {{ content }}
                 </div>
-                <div class="span4">
-                    Column for other stuff!
-                </div>
+                <div class="span2"></div>
             </div>
 
             <!-- ==================== Footer ==================== -->
@@ -105,11 +105,11 @@
                         <a class="btn" href="http://zerply.com/MulberryBeacon" target="_blank">Zerply</a>
                     </div>
                     <div class="span4">
-                        <a class="link-image" style="text-decoration:none" href="http://humanstxt.org" target="_blank">
-                            <img src="http://humanstxt.org/img/oficial-logos/humanstxt-isolated-blank.gif" alt="humans.txt" title="humans.txt - Share Your Humanity">
+                        <a class="link-image" href="http://humanstxt.org" target="_blank">
+                            <img src="/img/humanstxt-isolated-blank.gif" alt="humans.txt" title="humans.txt - Share Your Humanity">
                         </a>
                         <a class="link-image" href="http://www.w3.org/html/logo/" target="_blank">
-                            <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3.png" width="65" height="31" alt="HTML5 Powered with CSS3 / Styling" title="HTML5 Powered with CSS3 / Styling">
+                            <img src="/img/html5-badge-h-css3.png" width="65" height="31" alt="HTML5 Powered with CSS3 / Styling" title="HTML5 Powered with CSS3 / Styling">
                         </a>
                     </div>
                 </div>
@@ -130,6 +130,7 @@
         <script src="/js/main.js"></script>
         <script src="/js/bootstrap.min.js"></script>
         <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/js/custom.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>

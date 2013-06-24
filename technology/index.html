@@ -16,10 +16,16 @@ title:  Technology
 			{{ post.excerpt }}
 		</div>
 		<div class="post-footer">
-			<a href="{{ post.url }}">Follow the white rabbit &raquo;</a>
+			<div class="row">
+				<div class="span3">
+					<p><a href="{{ post.url }}">Follow the white rabbit &raquo;</a></p>
+				</div>
+			</div>
 		</div>
 	</article>
 	{% endfor %}
 {% else %}
-No posts to show! Come back later!
+<div class="no-content">
+	<p>No posts to show! Come back later!</p>
+</div>
 {% endif %}

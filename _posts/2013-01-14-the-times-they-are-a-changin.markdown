@@ -5,15 +5,16 @@ date:       2013-01-14 14:24:00
 categories: Personal
 ---
 
-Taxes
-=====
+The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. And here's why.
 
-The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. Due to the ridiculous austerity measures that will come into effect right from the get go, the vast majority of the Portuguese people will have to adjust to a harsher financial reality. The middle class (some would call it the heart and soul of the country) will be hit particularly hard by Venom-pumped taxes, pushing it towards what could turn out to be a Greek breaking point, if you know what I mean.
+#### Taxes
+
+Due to the ridiculous austerity measures that will come into effect right from the get go, the vast majority of the Portuguese people will have to adjust to a harsher financial reality. The middle class (some would call it the heart and soul of the country) will be hit particularly hard by Venom-pumped taxes, pushing it towards what could turn out to be a Greek breaking point, if you know what I mean.
 
 As a member of the dwindling middle class, my wife and I are making adjustments to our monthly budget. Speaking of my wife, she's an interesting case that shows the chaos our society is in. For all intents and purposes, she works in the private sector. Therefore, she doesn't have access to all the benefits bestowed upon the public sector workers. Makes sense so far. The catch is that she pays taxes as if she were a public sector worker. This means successive wage cuts that have hindered some of our plans for the future.
 
-What to do?
-===========
+#### What to do?
+
 Back to the budget... I've decided to go ahead with some action points that will have an immediate impact on our monthly expenses:
 * Stop using the subway in Lisbon. Having to juggle between train, subway and bus (one every *40* minutes) during my daily commute, the amount of delays caused by malfunctions and the wait period between trains is a disaster waiting to happen every day. Besides saving a pretty penny, I'll add a 4.8 Km round trip walk to my daily routine, upping the tally to 8.8 Km (getting Batman-like fit is one of my main goals for 2013).
 
@@ -29,8 +30,8 @@ Back to the budget... I've decided to go ahead with some action points that will
 
 * LEGO... ah, LEGO. No sets for the household this year. It’s totally off limits.
 
-Other options
-=============
+#### Other options
+
 Another possible move could be downsizing from two cars to one. My wife needs her car to drive to work, but I rarely take mine out. The savings on the insurance alone will be significant. The problem is that her car is not getting any younger and we might be forced to replace our two cars with a new (used) one. That could be a troublesome hit on our budget.
 
 I’m also planning to get rid of all the old computer parts stacked in my home office. The financial return will surely be quite small, but hopefully they’ll find new owners who’ll put them to good use. Even my iMac isn’t safe. It might just have to go.

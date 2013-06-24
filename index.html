@@ -11,11 +11,15 @@ title: Gotham Beacon
 		{% assign up_category = category | capitalize %}
 		<small>Posted on {{ post.date | date_to_long_string }} under <a href="{{ site.baseurl }}{{ category }}" title="View all posts in {{ up_category }}" rel="category tag">{{ up_category }}</a>.</small>
 	</div>
-	<div class="post-content">
+	<div>
 		{{ post.excerpt }}
 	</div>
 	<div class="post-footer">
-		<a href="{{ post.url }}">Follow the white rabbit &raquo;</a>
+		<div class="row">
+			<div class="span3">
+				<p><a href="{{ post.url }}">Follow the white rabbit &raquo;</a></p>
+			</div>
+		</div>
 	</div>
 </article>
 {% endfor %}
