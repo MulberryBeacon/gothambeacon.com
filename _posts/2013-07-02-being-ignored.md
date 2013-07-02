@@ -7,7 +7,7 @@ categories: Personal
 
 I hate being ignored. It's one of my (many) pet peeves. Unfortunately, it's precisely the kind of antics seen in many technical recruiters.
 
-This past month of June I was ignored by two recruiters through LinkedIn. I sent a couple of InMails apologizing for the approach and asking if they could spare a couple of minutes to answer some quick questions regarding their como anise. The only reply I got was silence. Pure and simple. Straight up. Shaken, not stirred.
+Last month I was ignored by two recruiters through LinkedIn. I sent a couple of InMails apologizing for the approach and asking if they could spare a couple of minutes to answer some quick questions regarding their como anise. The only reply I got was silence. Pure and simple. Straight up. Shaken, not stirred.
 
 For a while, I wondered if I had done something wrong or written something that might have put them off. Or maybe it was my profile that didn't click. Not the right skill set? Not enough skills in my bag of magic tricks? I even left the door wide open for them to brush me aside with a quick "We're not interested".
 
