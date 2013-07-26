@@ -4,17 +4,17 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
+        <title>{{ page.title }}</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
         <meta name="description" content="">
         <meta navbarme="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <!-- Style sheets -->
-        <link rel="stylesheet" href="/css/normalize.css">
-        <link rel="stylesheet" href="/css/main.css">
+        <!--<link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">-->
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="/css/custom.css">
@@ -28,7 +28,7 @@
             <!-- ==================== Header ==================== -->
             <header>
                 <div class="page-header">
-                    <div class="row">
+                    <div class="row-fluid">
                         <div class="span10">
                             <h1>{{ site.name }}</h1>
                             <h3>The ramblings of an aging Bruce Wayne</h3>
@@ -82,18 +82,16 @@
             </header>
 
             <!-- ==================== Content section ==================== -->
-            <div class="row">
-                <div class="span2"></div>
-                <div class="span8">
+            <div class="row-fluid">
+                <div class="span8 offset2">
                     {{ content }}
                 </div>
-                <div class="span2"></div>
             </div>
 
             <!-- ==================== Footer ==================== -->
             <footer>
                 <hr>
-                <div class="row">
+                <div class="row-fluid">
                     <div class="span8">
                         <a class="btn" href="http://bitbucket.org/MulberryBeacon" target="_blank">Bitbucket</a>
                         <a class="btn" href="http://coderwall.com/mulberrybeacon" target="_blank">Coderwall</a>
