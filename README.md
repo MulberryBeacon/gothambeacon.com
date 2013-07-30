@@ -13,6 +13,12 @@ not reuse anything therein without my permission:
 
 _posts/
 
+All files, directories and code provided by Twitter Bootstrap are licensed under
+the Apache License v2.0.
+
+All files, directories and code provided by both Jekyll and HTML5 Boilerplate are
+licensed under the MIT License.
+
 All other files, directories and code are MIT licensed, and therefore free to use
 as you please for commercial or non-commercial purposes (see LICENSE for details).
 If you do use them, a link back to http://gothambeacon.com would be appreciated.
