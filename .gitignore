@@ -1,2 +1,6 @@
 _site/
 _drafts/
+
+# Temporary CSS and JavaScript directories
+css_aux/
+js_aux/

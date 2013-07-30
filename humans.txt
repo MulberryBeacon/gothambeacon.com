@@ -14,18 +14,23 @@ Developer: Nicolas Gallagher, Paul Irish, Mathias Bynens, Divya Manian, and Hans
 Twitter: @h5bp
 Site: http://html5boilerplate.com/
 
+Why: Twitter Bootstrap
+Developer: Jacob Thornton and Mark Otto
+Twitter: @twbootstrap
+Site: http://getbootstrap.com/
+
 Why: ASCII art on this file and site header
 Artist: Christopher Johnson
 Site: http://www.chris.com/
 From: San Francisco, CA, USA
 
 # SITE
-Last update: 2013/05/24
+Last update: 2013/07/30
 Language: English
 
 # TECHNOLOGY COLOPHON
 Standards: HTML5, CSS3, humanstxt.org
-Components: HTML5 Boilerplate, Normalize.css, jQuery, Modernizr
+Components: HTML5 Boilerplate, Twitter Bootstrap, Normalize.css, jQuery, Modernizr
 CMS: Jekyll
 Software: Sublime Text 2, Vim, Git
 
