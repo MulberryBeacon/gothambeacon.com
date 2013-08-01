@@ -13,7 +13,7 @@ not reuse anything therein without my permission:
 
 _posts/
 
-All files, directories and code provided by Twitter Bootstrap are licensed under
+All files, directories and code provided by Bootstrap are licensed under
 the Apache License v2.0.
 
 All files, directories and code provided by both Jekyll and HTML5 Boilerplate are

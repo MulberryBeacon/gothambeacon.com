@@ -14,7 +14,7 @@ Developer: Nicolas Gallagher, Paul Irish, Mathias Bynens, Divya Manian, and Hans
 Twitter: @h5bp
 Site: http://html5boilerplate.com/
 
-Why: Twitter Bootstrap
+Why: Bootstrap
 Developer: Jacob Thornton and Mark Otto
 Twitter: @twbootstrap
 Site: http://getbootstrap.com/
