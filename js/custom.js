@@ -3,7 +3,7 @@
  */
 $(document).ready(function() {
 	var pathname = window.location.pathname;
-	$("div.navbar-inner a").each(function(index) {
+	$("ul.nav a").each(function(index) {
 		if ((index == 0 && pathname == "/") || pathname.toUpperCase().indexOf($(this).text().toUpperCase()) != -1) {
 			$(this).parent().addClass("active");
 			return false;

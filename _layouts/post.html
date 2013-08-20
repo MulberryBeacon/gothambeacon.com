@@ -14,17 +14,17 @@ layout: default
 	</div>
 	<div class="post-footer">
 		{% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
-		<div class="row-fluid">
-			<div class="span2">
+		<div class="row">
+			<div class="col-md-2">
 				<p>Share this!</p>
 			</div>
-			<div class="span2 offset1">
+			<div class="col-md-2 col-md-offset-1">
 				<a class="twitter-share-button" data-dnt="true" data-url="{{ url }}" data-via="GothamBeacon" href="https://twitter.com/share">Tweet</a>
 			</div>
-			<div class="span2 offset1">
+			<div class="col-md-2 col-md-offset-1">
 				<div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ url }}"></div>
 			</div>
-			<div class="span2 offset1">
+			<div class="col-md-2 col-md-offset-1">
 				<div class="fb-like" data-href="{{ url }}" data-layout="button_count" data-send="false" data-show-faces="false"></div>
 			</div>
 		</div>
