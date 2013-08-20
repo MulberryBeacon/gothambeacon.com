@@ -5,18 +5,26 @@ body {
 	font-family: "Courier New", Courier, monospace;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+	font-family: "Courier New", Courier, monospace
+}
+
 /*
  * Removes top margin from the line separating the page footer from the content section
  */
 footer > hr {
 	margin-top: 0;
-}
-
-/*
- * Hide link underscoring in the footer section for humans.txt and HTML5
- */
-a.link-image {
-	text-decoration: none;
 }
 
 /*
