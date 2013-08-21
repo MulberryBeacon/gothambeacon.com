@@ -21,13 +21,6 @@ h6,
 }
 
 /*
- * Removes top margin from the line separating the page footer from the content section
- */
-footer > hr {
-	margin-top: 0;
-}
-
-/*
  * Reshape the ASCII art in the header
  */
 pre.header-ascii {
@@ -57,6 +50,53 @@ div.message {
 }
 
 /*
+ * Side navigation
+ */
+
+/* First level of nav */
+.sidenav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-shadow: 0 1px 0 #fff;
+	background-color: #FAFAFA;
+	border-radius: 5px;
+}
+
+/* All levels of nav */
+.sidebar .nav > li > a {
+	display: block;
+	color: #716B7A;
+	padding: 5px 20px;
+}
+.sidebar .nav > li > a:hover,
+.sidebar .nav > li > a:focus {
+	text-decoration: none;
+	background-color: #E5E4E2;
+	border-right: 1px solid #DBD8E0;
+}
+.sidebar .nav > .active > a,
+.sidebar .nav > .active:hover > a,
+.sidebar .nav > .active:focus > a {
+	font-weight: bold;
+	color: #563D7C;
+	background-color: transparent;
+	border-right: 1px solid #1B1B1B;
+	border-left: 1px solid #1B1B1B;
+}
+
+/* Nav: second level (shown on .active) */
+.sidebar .nav .nav {
+	display: none; /* Hide by default, but at >768px, show it */
+	margin-bottom: 8px;
+}
+.sidebar .nav .nav > li > a {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 30px;
+	font-size: 90%;
+}
+
+/*
  * Message shown when there aren't any posts in a specific category
  */
 div.no-content {
@@ -68,7 +108,7 @@ div.no-content {
  * Lighter theme for posts
  */
 article {
-	background: #FAFAFA; /* #FEFCFF*/
+	background-color: #FAFAFA; /* #FEFCFF*/
 	border: 1px solid #1B1B1B;
 	border-radius: 7px;
 	color: #000000;
