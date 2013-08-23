@@ -33,23 +33,6 @@ pre.header-ascii {
 }
 
 /*
- * 404 page
- */
-body.image {
-	background-image: url(/img/joker-vs-batman-960x540.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	-webkit-background-size: cover;
-	   -moz-background-size: cover;
-	background-size: cover;
-}
-
-div.message {
-	font-size: 14px;
-	margin: 30px;
-}
-
-/*
  * Side navigation
  */
 
