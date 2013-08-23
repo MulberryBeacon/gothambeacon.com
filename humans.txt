@@ -30,7 +30,7 @@ Language: English
 
 # TECHNOLOGY COLOPHON
 Standards: HTML5, CSS3, humanstxt.org
-Components: HTML5 Boilerplate, Twitter Bootstrap, Normalize.css, jQuery, Modernizr
+Components: HTML5 Boilerplate, Bootstrap, Normalize.css, jQuery, Modernizr
 CMS: Jekyll
 Software: Sublime Text 2, Vim, Git
 

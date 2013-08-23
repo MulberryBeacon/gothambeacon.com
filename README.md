@@ -11,8 +11,8 @@ The following directory and its contents are Copyright Eduardo Ferreira. You may
 
 _posts/
 
-All files, directories and code provided by Bootstrap are licensed under the Apache License v2.0.
+All files, directories and code provided by Bootstrap are licensed under the [LICENSE_APACHE](Apache License v2.0).
 
-All files, directories and code provided by both Jekyll and HTML5 Boilerplate are licensed under the MIT License.
+All files, directories and code provided by both Jekyll and HTML5 Boilerplate are licensed under the [LICENSE_MIT](MIT License).
 
 All other files, directories and code are MIT licensed, and therefore free to use as you please for commercial or non-commercial purposes (see [LICENSE](LICENSE) for details). If you do use them, a link back to http://gothambeacon.com would be appreciated.
