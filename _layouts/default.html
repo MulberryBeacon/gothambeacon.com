@@ -4,13 +4,21 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 	<head>
-		<title>{{ page.title }}</title>
+		<title>{{ page.title }} - {{ site.name }}</title>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="description" content="The ramblings of an aging Bruce Wayne">
+		<meta name="author" content="{{ site.user }}">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+		{% if page.description %}
+		<meta name="description" content="{{ page.description }}">
+		{% else %}
+		<meta name="description" content="{{ site.description }}">
+		{% endif %}
+		{% if page.categories %}
+		<meta name="keywords" content="{{ page.categories | join: ',' }}">
+		{% else %}
+		<meta name="keywords" content="{{ site.keywords | join: ',' }}">
+		{% endif %}
 
 		<!-- Style sheets -->
 		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -66,18 +74,18 @@
 			<!-- ==================== Content section ==================== -->
 			<div class="row">
 				<div class="col-md-2">
-					<div class="sidebar" role="complementary">
-					<ul class="nav sidenav">
-						<li><a href="/">Home</a></li>
-						<li class="divider-vertical"></li>
-						<li><a href="/personal/">Personal</a></li>
-						<li class="divider-vertical"></li>
-						<li><a href="/technology/">Technology</a></li>
-						<li class="divider-vertical"></li>
-						<li><a href="/sports/">Sports</a></li>
-						<li class="divider-vertical"></li>
-						<li><a href="/movies/">Movies</a></li>
-					</ul>
+					<div class="sidebar">
+						<ul class="nav sidenav">
+							<li><a href="/">Home</a></li>
+							<li class="divider-vertical"></li>
+							<li><a href="/personal/">Personal</a></li>
+							<li class="divider-vertical"></li>
+							<li><a href="/technology/">Technology</a></li>
+							<li class="divider-vertical"></li>
+							<li><a href="/sports/">Sports</a></li>
+							<li class="divider-vertical"></li>
+							<li><a href="/movies/">Movies</a></li>
+						</ul>
 					</div>
 				</div>
 				<div class="col-md-8">
@@ -103,7 +111,7 @@
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="/js/custom.js"></script>
 
-		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+		<!-- Google Analytics -->
 		<script>
 			var _gaq=[['_setAccount','UA-32484218-1'],['_trackPageview']];
 			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

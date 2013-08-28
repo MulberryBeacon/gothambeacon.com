@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "The Times They Are a Changin'" 
-date:       2013-01-14 14:24:00
-categories: Personal
+layout:      post
+title:       "The Times They Are a Changin'" 
+date:        2013-01-14 14:24:00
+category:    Personal
+description: The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. And here's why.
 ---
-
 The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. And here's why.
 
 #### Taxes

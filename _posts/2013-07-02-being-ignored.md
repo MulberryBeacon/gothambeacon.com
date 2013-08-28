@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "Being Ignored"
-date:       2013-07-02 14:30:00
-categories: Personal
+layout:      post
+title:       "Being Ignored"
+date:        2013-07-02 14:30:00
+category:    Personal
+description: I hate being ignored. It's one of my (many) pet peeves. Unfortunately, it's precisely the kind of antics seen in many technical recruiters.
 ---
-
 I hate being ignored. It's one of my (many) pet peeves. Unfortunately, it's precisely the kind of antics seen in many technical recruiters.
 
 Last month I was ignored by two recruiters through LinkedIn. I sent a couple of InMails apologizing for the approach and asking if they could spare a couple of minutes to answer some quick questions regarding their como anise. The only reply I got was silence. Pure and simple. Straight up. Shaken, not stirred.

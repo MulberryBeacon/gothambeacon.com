@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "Codebits V"
-date:       2012-07-27 17:01:00
-categories: Personal
+layout:      post
+title:       "Codebits V"
+date:        2012-07-27 17:01:00
+category:    Personal
+description: I'd been planning to do this since the beginning of 2012, but so much happened over the past eight months that it sort of slipped down the pecking order on my ToDo list.
 ---
-
 I'd been planning to do this since the beginning of 2012, but so much happened over the past eight months that it sort of slipped down the pecking order on my ToDo list.
 
 While visiting the [Codebits website][codebits] to do a small profile update and check out the latest news for this year's event, I came across the [So, what can YOU do for Codebits?][what-can-you-do] post. And so, here's a brief overview of my experience at Codebits V, which took place on 10th-12th November 2011.

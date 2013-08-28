@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "Once Upon a Time"
-date:       2013-01-25 15:44:00
-categories: Personal
+layout:      post
+title:       "Once Upon a Time"
+date:        2013-01-25 15:44:00
+category:    Personal
+description: Let me tell you a story. Once upon a time there was a little boy.
 ---
-
 Let me tell you a story. Once upon a time there was a little boy.
 
 The little boy fell in love with computers when he was just seven or eight. That would be his future, he thought. To work with computers and change the world would be his ultimate goal in life.

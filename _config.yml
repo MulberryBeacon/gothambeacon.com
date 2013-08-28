@@ -1,9 +1,13 @@
-name:      Gotham Beacon
+name:        Gotham Beacon
+description: Gotham Beacon contains the ramblings of an aging Bruce Wayne. It is a blog about everything that interests this humble Batman fan.
+keywords:    Personal, Technology, Sports, Movies
 
-baseurl:   /
-url:       http://gothambeacon.com
+user:    Bruce Wayne
+url:     http://gothambeacon.com
+baseurl: /
+
+markdown:  rdiscount
 permalink: pretty
-
 safe:      true
 lsi:       false
 pygments:  true
