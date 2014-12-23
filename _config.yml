@@ -6,8 +6,8 @@ user:    Bruce Wayne
 url:     http://gothambeacon.com
 baseurl: /
 
-markdown:  rdiscount
-permalink: pretty
-safe:      true
-lsi:       false
-pygments:  true
+markdown:     rdiscount
+permalink:    pretty
+safe:         true
+lsi:          false
+highlighters: pygments
