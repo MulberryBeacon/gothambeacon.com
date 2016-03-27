@@ -6,7 +6,7 @@ user:    Bruce Wayne
 url:     http://gothambeacon.com
 baseurl: /
 
-markdown:     rdiscount
+markdown:     kramdown
 permalink:    pretty
 safe:         true
 lsi:          false
