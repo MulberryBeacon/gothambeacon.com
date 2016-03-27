@@ -11,6 +11,6 @@ But this is something else. I don't know if calling it fan fiction would be insu
 
 Hats off to Russell Saunders. I've read it so many times since stumbling into it back in 2012 and I can't stop admiring its brilliancy every time I read it.
 
-I won't transcribe it here. Follow the link. It's only fair.
+I won't transcribe it here. [Follow the link][follow-the-link]. It's only fair.
 
-http://ordinary-gentlemen.com/blog/2011/11/14/patient-bw-dob-2161971/
+[follow-the-link]: http://ordinary-gentlemen.com/blog/2011/11/14/patient-bw-dob-2161971/
