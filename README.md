@@ -5,7 +5,7 @@ This is the source code for my personal website. It is automatically transformed
 
 ## License
 
-Copyright (c) 2012-2013 Eduardo Ferreira
+Copyright (c) 2012-2016 Eduardo Ferreira
 
 The following directory and its contents are Copyright Eduardo Ferreira. You may not reuse anything therein without my permission:
 
