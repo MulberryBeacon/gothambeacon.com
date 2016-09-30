@@ -1,25 +1,13 @@
 gothambeacon.com
 ================
 
-This is the source code for my personal website.
-It is powered by HTML5 Boilerplate and, in the near future, Flask and Frozen-Flask.
+This is the source code for my personal website: [gothambeacon.com](http://gothambeacon.com)
+It is hosted by GitHub Pages and rendered via HTML5 Boilerplate and, in the near future, Flask and Frozen-Flask.
 
 ## License
 
-Copyright (c) 2012-2016 Eduardo Ferreira
+Copyright © 2012-2016 Eduardo Ferreira
 
-The following directory and its contents are Copyright Eduardo Ferreira. You
-may not reuse anything therein without my permission:
-
-_posts/
-
-All files, directories and code provided by Bootstrap are licensed under the
-[Apache License v2.0](LICENSE_APACHE).
-
-All files, directories and code provided by both Jekyll and HTML5 Boilerplate
-are licensed under the [MIT License](LICENSE_MIT).
-
-All other files, directories and code are licensed under the
-[MIT License](LICENSE), and therefore free to use as you please for commercial
-or non-commercial purposes for details). If you do use them, a link back to
-http://gothambeacon.com would be appreciated.
+Until further notice, the content in this repository is licensed under the 
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+license.
