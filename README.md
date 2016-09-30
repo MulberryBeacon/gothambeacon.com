@@ -2,6 +2,7 @@ gothambeacon.com
 ================
 
 This is the source code for my personal website: [gothambeacon.com](http://gothambeacon.com)
+
 It is hosted by GitHub Pages and rendered via HTML5 Boilerplate and, in the near future, Flask and Frozen-Flask.
 
 ## License
