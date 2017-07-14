@@ -1,6 +1,3 @@
+# Directories with the deployed site and drafts
 _site/
 _drafts/
-
-# Temporary CSS and JavaScript directories
-css_aux/
-js_aux/

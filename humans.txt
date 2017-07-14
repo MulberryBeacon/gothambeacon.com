@@ -6,7 +6,7 @@ Developer: Eduardo Ferreira
 Site: http://gothambeacon.com
 Twitter: @MulberryBeacon
 Google+: https://plus.google.com/110281179271243191202
-Location: Lisbon, Portugal
+Location: London, England
 
 # THANKS
 Why: HTML5 Boilerplate
@@ -25,14 +25,14 @@ Site: http://www.chris.com/
 From: San Francisco, CA, USA
 
 # SITE
-Last update: 2013/07/30
+Last update: 2017/07/20
 Language: English
 
 # TECHNOLOGY COLOPHON
 Standards: HTML5, CSS3, humanstxt.org
 Components: HTML5 Boilerplate, Bootstrap, Normalize.css, jQuery, Modernizr
-CMS: Jekyll
-Software: Sublime Text 2, Vim, Git
+CMS: Pelican
+Software: Microsoft Visual Studio Code, Git
 
 
 
@@ -51,4 +51,3 @@ MMMMMMMMMMMMMMMMMMMMM.                             MMMMMMMMMMMMMMMMMMMMM
                                  MMMMMM
                                   MMMM
                                    MM
-
