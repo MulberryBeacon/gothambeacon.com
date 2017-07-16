@@ -5,6 +5,7 @@ date:        2016-03-26 23:00:00
 category:    personal
 description: I've always been conflicted about fan fiction. A mix of having so much stuff to read from well known authors and not bothering to look for high quality fan fiction (it's out there if you look long and hard) has led me to ignore it almost completely.
 ---
+
 I've always been conflicted about fan fiction. A mix of having so much stuff to read from well known authors and not bothering to look for high quality fan fiction (it's out there if you look long and hard) has led me to ignore it almost completely.
 
 But this is something else. I don't know if calling it fan fiction would be insulting, so I won't. What I'll say is that this short story (yes, I'll call it that) is one of the most brilliant pieces I've read about Batman that wasn't written by someone on DC's payroll. It doesn't tell a story about Batman, but rather tells Batman's story. A medical report that sums up the physical consequences of being the Dark Knight and how his alter-ego Bruce Wayne goes about with keeping up appearances by playing the part of the unlucky billionaire who keeps getting into trouble.

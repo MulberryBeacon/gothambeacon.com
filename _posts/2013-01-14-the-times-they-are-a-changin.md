@@ -5,6 +5,7 @@ date:        2013-01-14 14:24:00
 category:    personal
 description: The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. And here's why.
 ---
+
 The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. And here's why.
 
 #### Taxes

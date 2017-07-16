@@ -5,6 +5,7 @@ date:        2014-12-23 16:40:00
 category:    personal
 description: On the eve of Halloween, an early e-mail notified Coriant employees that a town hall meeting would be held at the company's premisses that same afternoon with one of our German overlords.
 ---
+
 On the eve of Halloween, an early e-mail notified Coriant employees that a town hall meeting would be held at the company's premisses that same afternoon with one of our German overlords. I was working from home that day and couldn't attend, but everyone sort of knew that bad news were coming our way. The last financial reports were pretty bad and extreme cost saving measures were on the pipeline.
 
 After the meeting ended, I was contacted by my Line Manager and he explained that, in light of a shift in priorities and the pressing need to cut costs, the company had decided to part ways with several external contractors in the Lisbon site. Some were allocated to other projects, but most were to be let go. I was one of them. So ended my stay at Coriant. A two-and-a-half-year roller coaster with more downs than ups. It was my longest stay at a company. Ever.

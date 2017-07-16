@@ -5,6 +5,7 @@ date:        2016-04-04 15:00:00
 category:    personal
 description: I've been neglecting my blog for over a year now. When I published my latest post a few days ago, I noticed that the site was a bit outdated (code, web framework, layouts, etc.).
 ---
+
 I've been neglecting my blog for over a year now. When I published my latest post a few days ago, I noticed that the site was a bit outdated (code, web framework, layouts, etc.).
 
 To be honest, patching it up at this stage would be a waste of time. It needs to be rebuilt from the ground up. I've been doing some catching up with what the cool kids (a.k.a. front end developers) are using these days. Between being shocked, excited, horrified, confused and petrified with how some things actually work (I'm looking at you, npm. And you too, Bower. Don't think I've forgotten about you both, Gulp and Grunt), I've found some pretty interesting stuff around Web Components, Polymer, Promises, Service Worker, etc.
@@ -17,4 +18,4 @@ At the same time, I'm going to be much more active than I've been so far by post
 
 To sum it up, the blog will become borderline unusable over the next few months while I rebuild it. Anyway, with a grand total of -1 readers, I'm sure no one will mind if things become a bit quirky around here.
 
-[personal-page]: http://mulberrybeacon.com
+[personal-page]: https://mulberrybeacon.com

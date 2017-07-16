@@ -5,6 +5,7 @@ date:        2014-05-09 16:40:00
 category:    personal
 description: I've been thinking about the meaning of friendship.
 ---
+
 I've been thinking about the meaning of friendship. Although it initially felt like being kicked in the chest by Leonidas, it actually clarified the role that some of my friends play in my life and I ended up figuring out how to react to these new findings.
 
 I think that friends should be comfortable sharing with one another. Sure, you might share or discuss specific topics with specific friends according to a set of common interests (e.g. it's what we end up doing by creating Circles in Google Plus or Lists in Twitter). But you almost always have some very close friends with which you can talk about pretty much everything. You might not see that person for days, weeks, months or years, but conversation comes by easily and it seems like you spoke only yesterday.
