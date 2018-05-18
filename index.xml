@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gotham Beacon</title>
+    <link>https://gothambeacon.com/index.xml</link>
+    <description>Recent content on Gotham Beacon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 20:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gothambeacon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Front End Developer Cometh</title>
+      <link>https://gothambeacon.com/2017/07/19/the-front-end-developer-cometh/</link>
+      <pubDate>Wed, 19 Jul 2017 20:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2017/07/19/the-front-end-developer-cometh/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve reinvented myself a few times throughout my career and it&amp;rsquo;s that time again. Over the next four months, I&amp;rsquo;ll be working as a full-time front end developer. My last hardcore project involving &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript&#34;&gt;JavaScript&lt;/a&gt; was 5 years ago when I wrote around 2000 lines of vanilla JavaScript and &lt;a href=&#34;https://jquery.com/&#34;&gt;jQuery&lt;/a&gt; at an insurance company. To be honest with myself, I wrote that code without actually knowing how to code in JavaScript. It was something that needed to be done and I got it done, as simple as that. As the years passed, the only occasions where I dabbled with front end technologies were when I needed to do minor work on my blog.&lt;/p&gt;
+
+&lt;p&gt;Although I&amp;rsquo;ve been keeping tabs on the state of the art in front end technologies, my hands-on experience is extremely limited. Recently at work, we had a front end project delivered by a contractor that was sub par, to say the least. It was an &lt;a href=&#34;https://angularjs.org/&#34;&gt;AngularJS&lt;/a&gt; app that was fundamentally broken and I had to step in and fix it as best I could in a very short period of time in order to meet project deadlines. In the process, I got slightly acquainted with AngularJS, but just enough to fix the plumbing in the project. I&amp;rsquo;m now diving into different frameworks and tools (&lt;a href=&#34;https://nodejs.org/en/&#34;&gt;Node.js&lt;/a&gt;, &lt;a href=&#34;https://www.npmjs.com/&#34;&gt;npm&lt;/a&gt;, &lt;a href=&#34;https://angular.io/&#34;&gt;Angular&lt;/a&gt;, &lt;a href=&#34;https://webpack.js.org/&#34;&gt;Webpack&lt;/a&gt;, etc.) to implement a fully fledged web application. Above all, I&amp;rsquo;ll try to make the most of the opportunity and learn proper JavaScript and &lt;a href=&#34;https://www.typescriptlang.org/&#34;&gt;TypeScript&lt;/a&gt;, just like my last project allowed me to significantly deepen my knowledge of &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eddie&#39;s Back!</title>
+      <link>https://gothambeacon.com/2017/07/16/eddies-back/</link>
+      <pubDate>Sun, 16 Jul 2017 13:33:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2017/07/16/eddies-back/</guid>
+      <description>&lt;p&gt;I finally picked up my blog again. After 2 years of blatant neglect, I picked up the shambles of the (now) previous version and started from scratch. To avoid rocking the boat too much and speed up its deployment, I decided to keep it as a static website and deployed with &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. My initial goal was to move away from &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; and adopt a Python based static website generator. The ones I tested were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Combination of &lt;a href=&#34;http://flask.pocoo.org/&#34;&gt;Flask&lt;/a&gt; + &lt;a href=&#34;https://pythonhosted.org/Flask-FlatPages/&#34;&gt;Flask-FlatPages&lt;/a&gt; + &lt;a href=&#34;https://pythonhosted.org/Frozen-Flask/&#34;&gt;Frozen-Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hyde.github.io/&#34;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.getlektor.com/&#34;&gt;Lektor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I could&amp;rsquo;ve tried many more (e.g. Hexo, Hugo, Brunch, Middleman, Harp, Expose), but instead focused on these 4 options and none of them made things as easy as Jekyll to quickly deploy a site. The main goal of having this blog is to be able to write and not having to worry (too much) about making several changes in the underlying structure just to accommodate slight changes in the overall look and feel.&lt;/p&gt;
+
+&lt;p&gt;Alas, after many trial and errors, I moved back to Jekyll. And it took me just a couple of hours to create a new website from scratch and import the content and custom settings from the old blog. As I put everything together with the latest versions of &lt;a href=&#34;https://html5boilerplate.com/&#34;&gt;HTML5 Boilerplate&lt;/a&gt; and &lt;a href=&#34;https://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;, I made a few UI changes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Removed the Bat-signal ASCII art from the page header. I&amp;rsquo;ll probably bring it back again, but not sure how&lt;/li&gt;
+&lt;li&gt;Removed the vertical menu on the left side. It&amp;rsquo;ll come back, but in a different format&lt;/li&gt;
+&lt;li&gt;Removed the &lt;code&gt;border-radius&lt;/code&gt; from the &lt;code&gt;div&lt;/code&gt; elements with the post boxes&lt;/li&gt;
+&lt;li&gt;Removed the footer from the post boxes
+
+&lt;ul&gt;
+&lt;li&gt;The permanent link to the post that was available under the &amp;ldquo;Follow the white rabbit&amp;rdquo; link has been migrated to the post title&lt;/li&gt;
+&lt;li&gt;The buttons to share the post in several social media outlets are gone as well. Honestly, they made me feel like a bit of an attention whore. I just want to write stuff and, if people choose to read it and share, that&amp;rsquo;s fine. If not, that&amp;rsquo;s fine as well&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are still quite a few changes I need to make. Migrating to Bootstrap 4 alpha seems to have led to an overall quirky layout, given that I barely touched the custom CSS file I brought over from the previous version of the blog. Font size, padding, margins&amp;hellip; lots of stuff to review.&lt;/p&gt;
+
+&lt;p&gt;One additional thing I changed was the license. I moved to the &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internacional License&lt;/a&gt;. Still not sure if I chose the right license, as the more permissive &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt; also seems quite friendly.&lt;/p&gt;
+
+&lt;p&gt;Going back to my last post (back in April 2016), I&amp;rsquo;m definitely going to be much more active than I&amp;rsquo;ve been so far by posting stuff about several topics. At least, I intend to.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Website</title>
+      <link>https://gothambeacon.com/2016/04/04/new-website/</link>
+      <pubDate>Mon, 04 Apr 2016 15:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2016/04/04/new-website/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been neglecting my blog for over a year now. When I published my latest post a few days ago, I noticed that the site was a bit outdated (code, web framework, layouts, etc.).&lt;/p&gt;
+
+&lt;p&gt;To be honest, patching it up at this stage would be a waste of time. It needs to be rebuilt from the ground up. I&amp;rsquo;ve been doing some catching up with what the cool kids (a.k.a. front end developers) are using these days. Between being shocked, excited, horrified, confused and petrified with how some things actually work (I&amp;rsquo;m looking at you, npm. And you too, Bower. Don&amp;rsquo;t think I&amp;rsquo;ve forgotten about you both, Gulp and Grunt), I&amp;rsquo;ve found some pretty interesting stuff around Web Components, Polymer, Promises, Service Worker, etc.&lt;/p&gt;
+
+&lt;p&gt;Most of this stuff will definitely be overkill for the blog, but one of its initial purposes was to serve as a sort of learning ground to play with new web technologies and I&amp;rsquo;ve never used it in that way. Until now.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll also merge both my sites into a single one. My personal information page available at &lt;a href=&#34;https://mulberrybeacon.com&#34;&gt;mulberrybeacon.com&lt;/a&gt; will become an &amp;ldquo;About Me&amp;rdquo; page on this site, although it&amp;rsquo;ll still be reachable through its current address. I&amp;rsquo;ll probably have to move it out of GitHub into some sort of cloud storage (maybe an AWS instance).&lt;/p&gt;
+
+&lt;p&gt;At the same time, I&amp;rsquo;m going to be much more active than I&amp;rsquo;ve been so far by posting stuff mainly about tech and movies. I might even write about the changes I&amp;rsquo;ll be making to the site. And publish some short stories about you-know-who.&lt;/p&gt;
+
+&lt;p&gt;To sum it up, the blog will become borderline unusable over the next few months while I rebuild it. Anyway, with a grand total of -1 readers, I&amp;rsquo;m sure no one will mind if things become a bit quirky around here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fan Fiction. Or Is It?</title>
+      <link>https://gothambeacon.com/2016/03/26/fan-fiction.-or-is-it/</link>
+      <pubDate>Sat, 26 Mar 2016 23:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2016/03/26/fan-fiction.-or-is-it/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been conflicted about fan fiction. A mix of having so much stuff to read from well known authors and not bothering to look for high quality fan fiction (it&amp;rsquo;s out there if you look long and hard) has led me to ignore it almost completely.&lt;/p&gt;
+
+&lt;p&gt;But this is something else. I don&amp;rsquo;t know if calling it fan fiction would be insulting, so I won&amp;rsquo;t. What I&amp;rsquo;ll say is that this short story (yes, I&amp;rsquo;ll call it that) is one of the most brilliant pieces I&amp;rsquo;ve read about Batman that wasn&amp;rsquo;t written by someone on DC&amp;rsquo;s payroll. It doesn&amp;rsquo;t tell a story about Batman, but rather tells Batman&amp;rsquo;s story. A medical report that sums up the physical consequences of being the Dark Knight and how his alter-ego Bruce Wayne goes about with keeping up appearances by playing the part of the unlucky billionaire who keeps getting into trouble.&lt;/p&gt;
+
+&lt;p&gt;Hats off to Russell Saunders. I&amp;rsquo;ve read it so many times since stumbling into it back in 2012 and I can&amp;rsquo;t stop admiring its brilliancy every time I read it.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;rsquo;t transcribe it here. &lt;a href=&#34;http://ordinary-gentlemen.com/blog/2011/11/14/patient-bw-dob-2161971/&#34;&gt;Follow the link&lt;/a&gt;. It&amp;rsquo;s only fair.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Long Halloween</title>
+      <link>https://gothambeacon.com/2014/12/23/the-long-halloween/</link>
+      <pubDate>Tue, 23 Dec 2014 16:40:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2014/12/23/the-long-halloween/</guid>
+      <description>&lt;p&gt;On the eve of Halloween, an early e-mail notified Coriant employees that a town hall meeting would be held at the company&amp;rsquo;s premisses that same afternoon with one of our German overlords. I was working from home that day and couldn&amp;rsquo;t attend, but everyone sort of knew that bad news were coming our way. The last financial reports were pretty bad and extreme cost saving measures were on the pipeline.&lt;/p&gt;
+
+&lt;p&gt;After the meeting ended, I was contacted by my Line Manager and he explained that, in light of a shift in priorities and the pressing need to cut costs, the company had decided to part ways with several external contractors in the Lisbon site. Some were allocated to other projects, but most were to be let go. I was one of them. So ended my stay at Coriant. A two-and-a-half-year roller coaster with more downs than ups. It was my longest stay at a company. Ever.&lt;/p&gt;
+
+&lt;p&gt;Maybe a little background is in order. I joined Nokia Siemens Networks (NSN) in June 2012 to work on the TL1 protocol implementation. Work was always rather dull and unrewarding, but the team was pretty stable and performed pretty well. In December 2012 it was announced that Marlin Equity Partners was buying the Optical Networks business unit of NSN, which was where I was working. After months of red tape, a new company was created in May 2013 and it was christened Coriant.&lt;/p&gt;
+
+&lt;p&gt;At that time, instability had already begun to creep into the foundations of the company. A new project was started and it represented the future of the company. The ultimate flagship product that would help us conquer the market and leapfrog some of our most fierce competitors. Major organisational changes were done and stable development teams were split in order to allocate resources to the new endeavour. The major project we had (and the only one we were really selling to customers) suddenly had about half the staff and new features were being double-checked before implementation to make sure they were worthwhile. About six months later, the new &amp;ldquo;best thing since sliced bread&amp;rdquo; project was scrapped due to the uncertainty surrounding its milestones and the company&amp;rsquo;s ability to deliver an actual finished product that could be sold to customers.&lt;/p&gt;
+
+&lt;p&gt;An older project that had been shelved and hadn&amp;rsquo;t seen any real development in years was reactivated in an attempt to win a major deal with one of USA&amp;rsquo;s biggest telecom companies. For about five months, the development teams were totally focused on this goal and deadlines were being met left and right. When everything seemed on track for a successful sale, the customer in question dropped our proposal due to geopolitical reasons and not so much on the lack of merit of our technical solution. Teams were shuffled and what was still the company&amp;rsquo;s best product was now the main focus again.&lt;/p&gt;
+
+&lt;p&gt;In August 2013, the first round of layoffs came. A substantial set of employees (both full-time and contractors) were given the sack because they didn&amp;rsquo;t meet internal performance metrics that would henceforth become the standard to which each and everyone of us would have to live up to with our daily work. It was a pretty convoluted and delicate process and I&amp;rsquo;m not going to elaborate on it. I was one of those who stayed on with a strong reference regarding the quality of my work and my future involvement in the team&amp;rsquo;s activities. The bottom line is that the first warning flag had been raised.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Marlin bought two other companies (Sycamore Networks and Tellabs) and started merging them with Coriant. The promising financial results we were showing as a single company quickly started to fade with these mergers (no surprise here, I guess). Nevertheless, work was pouring in and we had enough on our plates to keep going without spending too much time thinking about what might happen. Sure, we talked about it on coffee breaks, but major feature development and bug fixing didn&amp;rsquo;t leave too much time for our imaginations to delve on the subject.&lt;/p&gt;
+
+&lt;p&gt;By the middle of 2014, the first alarming financial results were announced and it became clear that things could change by the end of the year. That, and the fact that one of Tellabs products was now the major development driver for the company. Again, the whole &amp;ldquo;best thing since sliced bread&amp;rdquo; innuendo that had worked out so well for us in the recent past. After a few months of uncertainty and a lot of backstage manoeuvres between sites (the company has development teams in the USA, Germany, Portugal and China), the downsizing measures began. External contractors were laid off in Germany. Full-time employees were laid off in the US. Both were laid off in China. And then our turn came.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m writing this three weeks after I left Coriant. I just needed things to sink in and objectively analyse what happened. Aside from one or two mishaps, the three Line Managers I had during my stay at the company were always forefront with me and we kept very clear and honest lines of communication. People like them are hard to come by in times plagued by poor management figures that resort to corporate lingo in order to slither their way out of actually managing the human beings that look at them for leadership and wisdom.&lt;/p&gt;
+
+&lt;p&gt;My team was excellent. It was composed of great people that I loved working with. There was just one obnoxious, patronising, self-centered and poor excuse for a human being that was supposed to be my team mate (although he wasn&amp;rsquo;t actually part of the team), but we ended up working as a two-headed monster while maintaining the TL1 protocol. There was no communication due to his genetical inability to socialize with other living organisms and things ended up being rather uncomfortable during my stay.&lt;/p&gt;
+
+&lt;p&gt;The bottom line is: I did my job. I did it well. Very well, actually. I was let go because, sooner or later, I would leave the company to join ze wife abroad and assigning me to a new project and Line Manager wasn&amp;rsquo;t feasible with this &amp;ldquo;restriction&amp;rdquo;. Financially speaking, the timing couldn&amp;rsquo;t be worse for me. But maybe it was for the best. I had long stagnated on a technical level and was feeling an increasing urge to look for something else. Maybe something completely different.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s so much going on in my life right now and most of it isn&amp;rsquo;t good. Figuring out what my next move will be while trying to sort everything else is beginning to take its toll. I walk around feeling like the weight of the world is on my shoulders and, without any real progress to hold on to, I&amp;rsquo;m struggling to find the right path for my short term future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Friendship</title>
+      <link>https://gothambeacon.com/2014/05/09/friendship/</link>
+      <pubDate>Fri, 09 May 2014 16:40:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2014/05/09/friendship/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been thinking about the meaning of friendship. Although it initially felt like being kicked in the chest by Leonidas, it actually clarified the role that some of my friends play in my life and I ended up figuring out how to react to these new findings.&lt;/p&gt;
+
+&lt;p&gt;I think that friends should be comfortable sharing with one another. Sure, you might share or discuss specific topics with specific friends according to a set of common interests (e.g. it&amp;rsquo;s what we end up doing by creating Circles in Google Plus or Lists in Twitter). But you almost always have some very close friends with which you can talk about pretty much everything. You might not see that person for days, weeks, months or years, but conversation comes by easily and it seems like you spoke only yesterday.&lt;/p&gt;
+
+&lt;p&gt;Although I don&amp;rsquo;t have a lot of friends, I feel fortunate to have a few select individuals that make me feel comfortable enough to share both my private feelings and common day trivia. Unfortunately, one of those individuals is no longer in this group and I only fully realised it when I started thinking about this topic. There was a breadcrumb trail of puzzle pieces that went back about three years and all I needed to do was put those pieces together to get the full picture. Less and less details were being shared (achievements, trips, projects, goals, etc.). Conversations were increasingly shallow and mostly focused on trivial subjects pertaining to common interests.&lt;/p&gt;
+
+&lt;p&gt;And it just stopped. Silence. But not from me, of course. I waited for the first few days. Time was short and all that jazz. But it wasn&amp;rsquo;t short enough to keep that person from posting stuff online. Why didn&amp;rsquo;t I take the initiative to reinstate the communication channel? I realised I just didn&amp;rsquo;t care. I think this person still looks at me and sees the man I was years ago. I&amp;rsquo;ve changed and those who know me well are aware of the full depth of those changes. I have no time for those who judge me for what I was instead of accepting me for what I am. I don&amp;rsquo;t like silence, which is why I&amp;rsquo;ll probably exchange e-mails and share stuff online with that person, who will be just another online contact I have. Nothing more, nothing less.&lt;/p&gt;
+
+&lt;p&gt;The few true friends that I have will be cherished dearly. They&amp;rsquo;ve been massively important to me in these past twelve months and I actually think that some of them don&amp;rsquo;t even realize just how important they&amp;rsquo;ve been in helping me keep my mental sanity in check. They&amp;rsquo;ve given me huge amounts of support by simply listening and letting me share. For H, J, J, M, M and P (alphabetical order), thank you. I&amp;rsquo;m here for you too.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Life</title>
+      <link>https://gothambeacon.com/2014/04/08/new-life/</link>
+      <pubDate>Tue, 08 Apr 2014 23:10:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2014/04/08/new-life/</guid>
+      <description>&lt;p&gt;A home away from home. That&amp;rsquo;s what London will be for my wife from now on. She&amp;rsquo;s writing a new page in her career as a registered nurse by taking up a position at the Great Ormond Street Hospital. The thick of it is that I&amp;rsquo;ll be living in Portugal with our young daughter for the time being. Since she&amp;rsquo;ll be doing most of the traveling, the first sentence seems like a perfect fit for her life style from now on.&lt;/p&gt;
+
+&lt;p&gt;It was one of the hardest decisions she made in her entire life. She&amp;rsquo;ll be trying to spend as much time as possible back home by juggling her work schedule, but it won&amp;rsquo;t be the same for her, of course. It&amp;rsquo;s still the beginning and we need to see how our little Princess Leia will react to it, but, for all intents and purposes, I&amp;rsquo;m now her father&amp;hellip; and mother (how do you like them apples, Lord Vader?).&lt;/p&gt;
+
+&lt;p&gt;More than ever, the need to focus on work and spend as little time as possible on it during the week is mandatory. I have to be there for her, no matter what. Sure, her grandparents are more than willing to share the load and help out in any way they can, but it&amp;rsquo;s my responsibility to make sure that she&amp;rsquo;s taken care of and, above all, happy.&lt;/p&gt;
+
+&lt;p&gt;Both me and my wife will be under enormous pressure. She&amp;rsquo;ll have to deal with the social and cultural shock of relocating to another country and dealing with different (and even opposing) work methodologies. I&amp;rsquo;ll support her in any way I can and will do my utmost to be there for her (our main communication tools will be Skype, Facetime and Viber). I just won&amp;rsquo;t be physically there for her and, sometimes, after a hard day at work, a simple hug can cure more than a thousand words.&lt;/p&gt;
+
+&lt;p&gt;Our new living arrangement is forcing me to face what&amp;rsquo;s been the elephant in the room for the past eight years, as far as my career is concerned. I&amp;rsquo;m not happy. I don&amp;rsquo;t like what I do. I never have, actually. I&amp;rsquo;ve always chosen my jobs for practical or materialistic reasons. Here are the three main reasons that have spurred me to accept job offers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The offices are in a privileged location&lt;/li&gt;
+&lt;li&gt;It pays much better that my current job&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m between jobs and my wife will be giving birth in one or two days&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t need to lecture you on how all of the previous reasons are completely wrong and should never be the sole basis of such an important decision as choosing a job. Your workplace is where you spend, at least, 40 hours a week (that&amp;rsquo;s a third of our lives during working days). You should enjoy what you do. You should like the majority of people you work with. You should be able to get up in the morning and say to yourself: &amp;ldquo;Wow, I feel like total crap today, but I&amp;rsquo;m kinda eager to get to work and do some awesome shit&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;While I&amp;rsquo;ve worked with some pretty amazing people and made some long lasting friendships, I&amp;rsquo;ve never been able to feel any of the rest. &lt;strong&gt;Ever&lt;/strong&gt;. My career has been a blunder. A mishap. A series of unfortunate choices. Waking up during the week is a mixed bag: I get to see my wife and daughter (even if it&amp;rsquo;s just a little bit of play and a rushed &amp;ldquo;goodbye, see you later&amp;rdquo; kiss on the forehead), but then rush off to work to delve in a black hole that consumes every bit of happiness that I might have built up during that short amount of time.&lt;/p&gt;
+
+&lt;p&gt;I just feel empty. I force myself to do the work I&amp;rsquo;m assigned. On the worst days, I force myself to interact with my team mates so that they won&amp;rsquo;t suspect anything, although some of them are really great guys. I dread leaving the house to go to work when I&amp;rsquo;m at the office or starting the VPN connection that will allow mental torture to invade my life when I&amp;rsquo;m working from home. This period of my day basically feels like a third degree encounter with a Dementor.&lt;/p&gt;
+
+&lt;p&gt;To be a happy and healthy father raising a happy and healthy child, I need to do something about my career. It&amp;rsquo;s becoming increasingly difficult to switch between depressed and happy mode. I need to do it because my daughter&amp;rsquo;s happiness comes first and my mental health is in dire need of change. The scariest bit is that I have no idea how to manage my career and in which direction I should take it.&lt;/p&gt;
+
+&lt;p&gt;The next couple of months should shed some light on this and I&amp;rsquo;ll strive to find some meaningful answers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Shackles of Social Networks</title>
+      <link>https://gothambeacon.com/2014/02/19/the-shackles-of-social-networks/</link>
+      <pubDate>Wed, 19 Feb 2014 11:30:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2014/02/19/the-shackles-of-social-networks/</guid>
+      <description>&lt;p&gt;Social networks can be a blessing for information hungry people like myself. When Google announced that Reader was going to be buried six feet under, I couldn&amp;rsquo;t have cared less. Twitter and Google Plus had been my news feeds for some time and, as an added bonus, I was able to follow some pretty interesting people that could be considered experts in their fields.&lt;/p&gt;
+
+&lt;p&gt;As I increasingly spent more time checking my timeline for whatever reason, a darker side to social networking started surfacing. Looking back now, the information overload was inevitable. Without realizing it, my usage of Twitter and Google Plus could be mathematically described as a Gaussian function and I was on the fast track to reaching the peak of the bell curve. As you approach it, you lose the ability to efficiently filter what meets your needs and entropy floods the information stream.&lt;/p&gt;
+
+&lt;p&gt;Another side effect is that I soon found myself tweeting disgustingly shallow stuff, like complaining about the refereeing in a football match or ranting about life in general. It was actually someone on Twitter that flipped the switch for me. A guy that I&amp;rsquo;ve never met personally, but whose technical skills and knowledge are respected throughout the community, suddenly became obsessed with the whole &amp;ldquo;inbox 0&amp;rdquo; conundrum and also interested in sharing his routine for walking the dog. Don&amp;rsquo;t get me wrong: freedom of speech (for better or for worse) rules in social networks. But I decided to stop and think about what I was getting from all of this. The answer was frightening: I was wasting &lt;em&gt;time&lt;/em&gt;, which could be considered one of Humanity&amp;rsquo;s most precious resources.&lt;/p&gt;
+
+&lt;p&gt;I pulled the plug. No more Twitter or Google Plus. My accounts are still active, but I&amp;rsquo;ve disabled all notifications (as far as I&amp;rsquo;m allowed to, at least). What I read online nowadays is only what I explicitly look for. As an added bonus, I&amp;rsquo;ve also cut down on TV. Movie channels are the only small pleasure I still indulge myself nowadays, although they&amp;rsquo;re mostly keeping me company as background noise while I attend to other matters. On a less positive note, I also cut down on talking with friends on Hangouts and interacting with them on private newsgroups. It seems like I&amp;rsquo;ve been losing touch with some people that I consider close friends, but time is so short these days that I end up using what little of it I have left to dedicate myself to my family.&lt;/p&gt;
+
+&lt;p&gt;All in all, it feels good. The initial fear of suffering from information deprivation quickly vanished. It&amp;rsquo;s okay to not know everything about everything (it&amp;rsquo;s not like I&amp;rsquo;m a Sid the Science Kid wannabe). Twitter is still out of the picture since mid-November 2013 (that&amp;rsquo;s a three-month total blackout) and I&amp;rsquo;ve slowly started looking at Google Plus. My initial plan was to restrict myself to 10 minutes per day, but that hasn&amp;rsquo;t been necessary so far. Most of the days I don&amp;rsquo;t even look at it and, when I do, I usually spend no more than five or six minutes. Chatting with friends is the next item on the agenda and I hope to gradually increase my interactions with them (I was able to clear a substantial e-mail backlog during the Christmas period).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Being Ignored</title>
+      <link>https://gothambeacon.com/2013/07/02/being-ignored/</link>
+      <pubDate>Tue, 02 Jul 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2013/07/02/being-ignored/</guid>
+      <description>&lt;p&gt;I hate being ignored. It&amp;rsquo;s one of my (many) pet peeves. Unfortunately, it&amp;rsquo;s precisely the kind of antics seen in many technical recruiters.&lt;/p&gt;
+
+&lt;p&gt;Last month I was ignored by two recruiters through LinkedIn. I sent a couple of InMails apologizing for the approach and asking if they could spare a couple of minutes to answer some quick questions regarding their como anise. The only reply I got was silence. Pure and simple. Straight up. Shaken, not stirred.&lt;/p&gt;
+
+&lt;p&gt;For a while, I wondered if I had done something wrong or written something that might have put them off. Or maybe it was my profile that didn&amp;rsquo;t click. Not the right skill set? Not enough skills in my bag of magic tricks? I even left the door wide open for them to brush me aside with a quick &amp;ldquo;We&amp;rsquo;re not interested&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;As much as I&amp;rsquo;ve tried to understand, I just can&amp;rsquo;t. There isn&amp;rsquo;t a plausible explanation for this lack of response. I find it snobbish and a bit demeaning. I wonder how they would feel if I neglected to reply to one of their approaches. Surely no one could say &amp;ldquo;not interested&amp;rdquo; to their companies, right?&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t care if you work for one of the best companies in the world and have to go through thousands of applications. If you think I&amp;rsquo;m not a fit for your company (or simply not good enough), take a minute to send a quick e-mail saying &amp;ldquo;We&amp;rsquo;re not interested right now. Maybe some other time. Sorry.&amp;rdquo; No hard feelings. I know the drill.&lt;/p&gt;
+
+&lt;p&gt;Just remember that I invested a lot of personal time preparing and submitting my application. The least you could do is say &amp;lsquo;no&amp;rsquo;. Also take into account that the way you treat me reflects heavily on the company you represent. A poor attitude might lead me (and others) to think that maybe it isn&amp;rsquo;t such a great company to work for after all. That&amp;rsquo;s one way of letting top talent slip through your fingers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Once Upon a Time</title>
+      <link>https://gothambeacon.com/2013/01/25/once-upon-a-time/</link>
+      <pubDate>Fri, 25 Jan 2013 15:44:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2013/01/25/once-upon-a-time/</guid>
+      <description>&lt;p&gt;Let me tell you a story. Once upon a time there was a little boy.&lt;/p&gt;
+
+&lt;p&gt;The little boy fell in love with computers when he was just seven or eight. That would be his future, he thought. To work with computers and change the world would be his ultimate goal in life.&lt;/p&gt;
+
+&lt;p&gt;He did really well in school until he reached the 10th grade. Faced with the pressure of needing good grades to get into university, he struggled to keep his previous track record. In the final year of that decisive cycle, he cracked and found himself clinically depressed.&lt;/p&gt;
+
+&lt;p&gt;After seeking professional help, the little boy realized that he didn&amp;rsquo;t give a damn about school. It was a means to an end and he would do just enough to get accepted at a good university with a good computer science program. And so he did.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, university wasn&amp;rsquo;t what the little boy expected it to be. He set aside those subjects that didn&amp;rsquo;t interest him and got passable grades, while devoting his time and attention to exciting topics on which he easily excelled.&lt;/p&gt;
+
+&lt;p&gt;Motivating himself to finish the degree was always a problem and, when confronted with a lack of academic progress, the little boy decided to get a job as a research assistant at his computer science department. He could work on something he&amp;rsquo;d surely like and be able to keep studying without the usual hassle of juggling work and school.&lt;/p&gt;
+
+&lt;p&gt;After two and a half years, the little boy still enjoyed the work he was doing, but felt unappreciated by his boss, as many of his co workers did. When his research grant came to an end, he decided to look for a new job in the corporate world. He would make more money and take part in exciting projects built with cutting edge technologies.&lt;/p&gt;
+
+&lt;p&gt;The first two years passed. The little boy bought a house and got married. He never took pleasure in any of the tasks he performed at the three companies he worked for. Instead of showcasing a strong background in cool technologies, he ended up working with outdated tech and platforms that led recruiters to believe he wouldn&amp;rsquo;t be able to work with anything else. The only good to come out of these jobs were the (hopefully lifelong) friends he made.&lt;/p&gt;
+
+&lt;p&gt;Then came his first true challenge. A close friend recommended him for a temporary position at one of the world’s greatest companies. After going through the recruitment process, the little boy got to work with his close friend and some very intelligent people. During the project, he had no doubt that the environment he was immersed in was what he wanted for his professional future.&lt;/p&gt;
+
+&lt;p&gt;When the project ended, the little boy returned to one of his previous companies. The work itself was generally dull, but he loved spending his days with those who were now his friends. That year went by slowly and his level of ambition was clearly dwindling.&lt;/p&gt;
+
+&lt;p&gt;With a new year came a fresh start. The little boy applied for a position at the cool company he had worked at before and, once again with a recommendation from his close friend, a recruitment process began. This time, it didn&amp;rsquo;t go as planned. So many things went wrong that day, but the truth of the matter is that the little boy simply wasn&amp;rsquo;t good enough to go through to the next stage.&lt;/p&gt;
+
+&lt;p&gt;The little boy was hurt. He felt unskilled, unaccomplished, unwanted. He felt worthless. He had blown what could have been a once in a lifetime chance to provide a better future for himself and his family. With his judgement clearly clouded by this experience, he decided to accept a job offer that would prove to be one of the biggest mistakes he would ever make in his life. The signs were all there, but he decided to ignore them. His spider sense screamed &amp;lsquo;no&amp;rsquo;, but he said &amp;lsquo;yes&amp;rsquo; instead.&lt;/p&gt;
+
+&lt;p&gt;It didn&amp;rsquo;t take long for the little boy to realize that he was working for the kind of people who treat other human beings as disposable pawns in a chess board. After a year of hard work and having his confidence constantly abused, he was thrown out like an old rag doll. To this day, the little boy curses the group of people who did this to him and ardently hopes they may suffer excruciatingly.&lt;/p&gt;
+
+&lt;p&gt;Suddenly, the little boy became a father to a beautiful little girl. His daily routine changed. His goals for the future changed. His life changed. Every little decision was to be made with his daughter’s well being in mind.&lt;/p&gt;
+
+&lt;p&gt;Despite knowing that the kind of work being proposed wasn&amp;rsquo;t what he wanted or hoped for, the little boy accepted a job offer. The steady wage (given the economic situation of his country) was enough to persuade him. Although the daily commute is long and tiresome (he’d much rather spend that time with his family), the little boy went on to find a good team environment and a few nice add ons that he never had at other companies. The frustration of doing meaningless work is dealt with on a daily basis. There are more important things to worry about.&lt;/p&gt;
+
+&lt;p&gt;The little boy hasn&amp;rsquo;t given up on fighting for the future of his family, but keeping his feet on the ground is what he will do henceforth. This means he will give up on some of his dreams in order to achieve the remaining ones.&lt;/p&gt;
+
+&lt;p&gt;The little boy doesn&amp;rsquo;t have what it takes to work for one of the greatest companies in the world.&lt;/p&gt;
+
+&lt;p&gt;The little boy will hardly have the chance to do the kind of work he always wanted.&lt;/p&gt;
+
+&lt;p&gt;The little boy will surely have a steady career in a profession that has unfortunately disappointed him at every turn.&lt;/p&gt;
+
+&lt;p&gt;The little boy always thought that having an unsatisfying day job would be impossible to deal with. Maybe he was wrong. Maybe he realized that he can still be happy by focusing on what&amp;rsquo;s truly important: his family.&lt;/p&gt;
+
+&lt;p&gt;The little boy loves his family.&lt;/p&gt;
+
+&lt;p&gt;The little boy will set aside most of his dreams, but he refuses to grow up. He still likes to dream. Being a little boy is nice.&lt;/p&gt;
+
+&lt;p&gt;The little boy will let others be grown men while he enjoys his life like a little boy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Times They Are a Changin&#39;</title>
+      <link>https://gothambeacon.com/2013/01/14/the-times-they-are-a-changin/</link>
+      <pubDate>Mon, 14 Jan 2013 14:24:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2013/01/14/the-times-they-are-a-changin/</guid>
+      <description>
+
+&lt;p&gt;The New Year is upon us and it&amp;rsquo;ll certainly go down in history as a year of hardship and sacrifice in Portugal. And here&amp;rsquo;s why.&lt;/p&gt;
+
+&lt;h4 id=&#34;taxes&#34;&gt;Taxes&lt;/h4&gt;
+
+&lt;p&gt;Due to the ridiculous austerity measures that will come into effect right from the get go, the vast majority of the Portuguese people will have to adjust to a harsher financial reality. The middle class (some would call it the heart and soul of the country) will be hit particularly hard by Venom-pumped taxes, pushing it towards what could turn out to be a Greek breaking point, if you know what I mean.&lt;/p&gt;
+
+&lt;p&gt;As a member of the dwindling middle class, my wife and I are making adjustments to our monthly budget. Speaking of my wife, she&amp;rsquo;s an interesting case that shows the chaos our society is in. For all intents and purposes, she works in the private sector. Therefore, she doesn&amp;rsquo;t have access to all the benefits bestowed upon the public sector workers. Makes sense so far. The catch is that she pays taxes as if she were a public sector worker. This means successive wage cuts that have hindered some of our plans for the future.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-to-do&#34;&gt;What to do?&lt;/h4&gt;
+
+&lt;p&gt;Back to the budget&amp;hellip; I&amp;rsquo;ve decided to go ahead with some action points that will have an immediate impact on our monthly expenses:
+* Stop using the subway in Lisbon. Having to juggle between train, subway and bus (one every &lt;em&gt;40&lt;/em&gt; minutes) during my daily commute, the amount of delays caused by malfunctions and the wait period between trains is a disaster waiting to happen every day. Besides saving a pretty penny, I&amp;rsquo;ll add a 4.8 Km round trip walk to my daily routine, upping the tally to 8.8 Km (getting Batman-like fit is one of my main goals for 2013).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cancel my 3G network subscription. The next couple of months will be payed with credit points from my mobile provider account. I&amp;rsquo;ll just have to get used to not having Internet access outside of Wi-Fi covered areas.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Change my prepaid mobile plan from a mandatory €25 per three months to a free payment regime. I don&amp;rsquo;t talk on the phone that much and a pay as you go plan ends up being cheaper and much better suited to my needs.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Renegotiate my cable subscription. In exchange for a new 12-month contract, I keep my monthly rate and get an additional batch of generalist and video on demand channels. Although no savings are achieved, the bang for the buck factor is improved and downgrading to a cheaper subscription is always a viable option in the future.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;No more books! After carefully looking at my current book collection, I have enough reading material for the next three years (at the rate I&amp;rsquo;ve been reading lately). My credit card will miss Amazon and my local comic book store.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;As for gaming, I took advantage of the last two Steam sales and stocked up on games that will last me three or four years. I only bought games that I really want to play and paid an average of €2,30 per game, which was a pretty sweet deal.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;LEGO&amp;hellip; ah, LEGO. No sets for the household this year. It’s totally off limits.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;other-options&#34;&gt;Other options&lt;/h4&gt;
+
+&lt;p&gt;Another possible move could be downsizing from two cars to one. My wife needs her car to drive to work, but I rarely take mine out. The savings on the insurance alone will be significant. The problem is that her car is not getting any younger and we might be forced to replace our two cars with a new (used) one. That could be a troublesome hit on our budget.&lt;/p&gt;
+
+&lt;p&gt;I’m also planning to get rid of all the old computer parts stacked in my home office. The financial return will surely be quite small, but hopefully they’ll find new owners who’ll put them to good use. Even my iMac isn’t safe. It might just have to go.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, my health insurance premium will skyrocket this year. My wife and I have decided to include the baby in our health plan and spoke with our insurance broker. It seems that our four-year-old insurance policy is too old (don&amp;rsquo;t get me started on insurance companies). The insurance packages have been restructured and, in order to keep the coverage we currently have, we’ll have to migrate to a new one which includes benefits that we don’t need at the cost of doubling the insurance premium. As always, very convenient.&lt;/p&gt;
+
+&lt;p&gt;Things are about to get tough. Really tough.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Codebits V</title>
+      <link>https://gothambeacon.com/2012/07/27/codebits-v/</link>
+      <pubDate>Fri, 27 Jul 2012 17:01:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2012/07/27/codebits-v/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;d been planning to do this since the beginning of 2012, but so much happened over the past eight months that it sort of slipped down the pecking order on my ToDo list.&lt;/p&gt;
+
+&lt;p&gt;While visiting the &lt;a href=&#34;https://codebits.eu/&#34;&gt;Codebits website&lt;/a&gt; to do a small profile update and check out the latest news for this year&amp;rsquo;s event, I came across the &lt;a href=&#34;https://codebits.eu/s/blog/a7a719ea3a27fd99f66784bee362fcad&#34;&gt;So, what can YOU do for Codebits?&lt;/a&gt; post. And so, here&amp;rsquo;s a brief overview of my experience at Codebits V, which took place on 10th-12th November 2011.&lt;/p&gt;
+
+&lt;p&gt;Initially, I didn&amp;rsquo;t even want to register for the event because I didn&amp;rsquo;t agree with what seemed like an absence of coherent selection criteria (and I still don&amp;rsquo;t understand what are the selection criteria used by SAPO, as the company seems intent on keeping its cards close to its chest). Alas, three of my coworkers had already registered for the event and, after a couple of weeks of enormous peer pressure&lt;sup id=&#34;ref_1&#34;&gt;[1]&lt;/sup&gt;, I caved in and followed suit. I couldn&amp;rsquo;t criticize something without getting involved and experiencing it. I was finally accepted and on my way to what some called the geek event of the year in Portugal since its first edition back in 2007.&lt;/p&gt;
+
+&lt;p&gt;The talks were, from a general standpoint, very good. It took me a couple of hours to choose the sessions I wanted to attend and managed to create a rather balanced schedule that spanned a wide variety of personal interests and technologies. I learned new stuff (test-driven development, exception handling and cross-platform mobile development were the main focus points) and a couple of talks brought new insight to where some of my personal projects were heading.&lt;/p&gt;
+
+&lt;p&gt;Networking is also an interesting part of the event. People who&amp;rsquo;ve only known each other through Twitter meet for the first time. People sharing the same interests and ideas for projects get together to discuss future colaborations. Some even start coding small prototypes to see if their projects are viable. If you&amp;rsquo;re simply bent on meeting new people, the right environment and conditions are there. You just need to put on your social suit and get to it.&lt;/p&gt;
+
+&lt;p&gt;And there&amp;rsquo;s coding. Even if you&amp;rsquo;re not in one of the teams in the main competition, you can just sit down (the floor is fine&amp;hellip; just don&amp;rsquo;t get stepped on), take your laptop out of your backpack and get cracking. One of the top items on my hidden agenda was to use that environment to jump start some of my projects, but my laptop is past its prime&lt;sup id=&#34;ref_fn_1&#34;&gt;[2]&lt;/sup&gt; and I just couldn&amp;rsquo;t be anywhere near productive.&lt;/p&gt;
+
+&lt;p&gt;You can also spend money at Codebits. The O&amp;rsquo;Reilly book stand is a mandatory stop with books being sold at special rates. If you look closely, there&amp;rsquo;s some really great deals to be had. And there&amp;rsquo;s LEGO!&lt;sup id=&#34;ref_fn_1&#34;&gt;[3]&lt;/sup&gt; I was hoping for special rates, but no such luck. I actually thought that some of the sets on display were a bit overpriced and decided against buying them at the time. I did, however, go for the Series 4 and 5 Minifigures.&lt;/p&gt;
+
+&lt;p&gt;Probably the greatest letdown was the catering. A free lunch is a free lunch, but you quickly forget it when it&amp;rsquo;s provided by McDonalds. I can only imagine the logistic and financial nightmare that is managing food for 800+ (between staff and attendees), but I&amp;rsquo;m sure that the organizing committee can (and will) do better this year. Code monkeys don&amp;rsquo;t need gourmet meals to survive (can I haz Mountain Dew or Red Bull?), but healthier meals would be dearly appreciated.&lt;/p&gt;
+
+&lt;p&gt;My advice is: apply for the event! It really is worth it. Take some time, create your profile and try to show why the event would be important to you.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s hoping that I&amp;rsquo;ll get drafted again this year. My two goals are set: start a new project during the event and do a bit more of networking.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;My sincerest thanks to Paulo, Miguel and Sérgio (my brother from another mother) for the push. Note that their initials (PMS) represent the physical symptoms I experienced while under the dark mantle of their influence.&lt;/li&gt;
+&lt;li&gt;My LG laptop has endured trips to Brazil, Germany and Ireland (two of them were business trips) and almost six years of loyal service. I could use a new work laptop&amp;hellip; can I haz a MacBook Air?&lt;/li&gt;
+&lt;li&gt;If you don&amp;rsquo;t like LEGO, get off my lawn! Thank you. Come again.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>https://gothambeacon.com/2012/06/01/first-post/</link>
+      <pubDate>Fri, 01 Jun 2012 19:18:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2012/06/01/first-post/</guid>
+      <description>&lt;p&gt;After months of hesitation (due to both work and personal issues), I finally went ahead and created this modest web site. It was the perfect excuse to have a crack at WordPress, since the goal was to roll out its first version in the smallest possible time frame. It&amp;rsquo;ll surely go through some changes in the near future (structure, content and presentation wise) as I explore what WordPress has to offer and come to terms with the kind of content I want to share.&lt;/p&gt;
+
+&lt;p&gt;Live long and prosper!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
