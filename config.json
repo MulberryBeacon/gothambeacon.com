@@ -1,0 +1,13 @@
+{
+    "baseurl": "https://gothambeacon.com/",
+    "enableEmoji": true,
+    "languageCode": "en-us",
+    "params": {
+        "AuthorName": "Eduardo Ferreira",
+        "Subtitle": "The ramblings of an aging Bruce Wayne"
+    },
+    "permalinks": {
+        "post": "/:year/:month/:day/:title/"
+    },
+    "title": "Gotham Beacon"
+}

@@ -1,6 +1,0 @@
-                        <div class="post-header">
-                            <h3 class="post-title">{{ page.title }}</h3>
-                            {% assign category = page.categories[0] %}
-                            {% assign up_category = category | capitalize %}
-                            <small>Posted on {{ page.date | date_to_long_string }} under <a href="{{ site.baseurl }}{{ category }}" title="View all posts in {{ up_category }}" rel="category tag">{{ up_category }}</a>.</small>
-                        </div>

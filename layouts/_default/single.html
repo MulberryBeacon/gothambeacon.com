@@ -1,0 +1,19 @@
+{{ partial "head.html" . }}
+    <body>
+        <!-- ==================== Header ==================== -->
+        {{ partial "header.html" . }}
+
+        <!-- ==================== Content section ==================== -->
+        <hr>
+        <section>
+            <h3>{{ .Title }}</h3>
+            <article>
+                {{ .Content }}
+            </article>
+        </section>
+        <hr>
+
+        <!-- ==================== Footer ==================== -->
+        {{ partial "footer.html" . }}
+    </body>
+</html>

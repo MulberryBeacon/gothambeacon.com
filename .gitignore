@@ -1,4 +1,2 @@
 # Directories with the deployed site and drafts
-_site/
-_drafts/
-.sass_cache/
+public/
