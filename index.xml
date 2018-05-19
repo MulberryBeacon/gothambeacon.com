@@ -6,8 +6,39 @@
     <description>Recent content on Gotham Beacon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 May 2018 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://gothambeacon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Setup</title>
+      <link>https://gothambeacon.com/2018/05/19/new-setup/</link>
+      <pubDate>Sat, 19 May 2018 23:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2018/05/19/new-setup/</guid>
+      <description>&lt;p&gt;My trusty old 2008 &lt;a href=&#34;http://www.everymac.com/systems/apple/macbook/specs/macbook-core-2-duo-2.4-aluminum-13-late-2008-unibody-specs.html&#34;&gt;MacBook&lt;/a&gt; was a faithful companion for many years until it became unbearably slow and unable to keep up with the software I was running. With a slow Core 2 Duo at 2.4 GHz and only 4 GB of RAM, the 120 GB SSD was the only thing that kept it reasonably responsive. I gave it to my parents in the summer of 2016 (they occasionally use it as a browsing terminal) and got a second-hand &lt;a href=&#34;https://www.microsoft.com/surface/en-us/devices/surface-pro-3&#34;&gt;Surface Pro 3&lt;/a&gt;. With a Core i5-4300U at 1.9 GHz, 8 GB LPDDR3 1600 MHz and a 256 GB SSD (Type Cover and Surface Pen included), the difference in performance was noticeable.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, running a Linux VM without any nerve-racking slowdowns is very difficult because the processor thermal throttles a lot and having just 8 GB of RAM doesn&amp;rsquo;t help, either. I tried going with slimmer Linux distributions and using lighter graphical interfaces, but to no avail. Over the past few months, the Surface has been feeling increasingly sluggish. Between regularly performing disk cleanups and resetting Windows 10 more often than I&amp;rsquo;d like to, nothing seems to help. It&amp;rsquo;s a good computer, but not suited to my present needs.&lt;/p&gt;
+
+&lt;p&gt;Another aspect that I was neglecting was the office setup at home. Over the past two years, I&amp;rsquo;ve been working from home more than ever (on average, I do half of my working hours at home), but never stopped to think how I was going about working. My work &amp;ldquo;desk&amp;rdquo; was the kitchen table, and I sat for hours on end on an awful wooden kitchen chair. With the increasing back and neck pain, I had to overcome a sort of &amp;ldquo;temporary&amp;rdquo; mindset that had taken over me and led me to think &amp;ldquo;I&amp;rsquo;ll take care of this later. It&amp;rsquo;s fine for now&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Given all this, and after carefully looking into my tech stack for both work and personal projects, I decided to invest in a new home office (if you can call it that). My first purchase was an &lt;a href=&#34;http://www.lg.com/uk/monitors/lg-29UM68&#34;&gt;LG 29UM68&lt;/a&gt; (29&amp;rdquo; Ultrawide) monitor that I got on Amazon Prime Day with a significant discount. I&amp;rsquo;ve come to regret this purchase since then, but that is a story for another day.&lt;/p&gt;
+
+&lt;p&gt;Have more screen real estate to increase productivity?
+* Check!&lt;/p&gt;
+
+&lt;p&gt;The next step was to get a desk and a proper chair. After (yet another) visit to IKEA, I bought the cheapest desk and the most expensive office chair they had. I&amp;rsquo;m pleased with the former, but not so much with the latter. The flat I live in is rather small, and I had a limited amount of space in the living room to slot in the desk, so its depth and width are not what I&amp;rsquo;d like to have. Either way, with the chair and the monitor in place, I was able to significantly reduce the amount of pain I was feeling in my upper back and neck.&lt;/p&gt;
+
+&lt;p&gt;Think about my physical health?
+* Check!&lt;/p&gt;
+
+&lt;p&gt;Now comes the hardest part. I want to build a desktop computer for both work and gaming. Unfortunately, the PC components market has gone crazy over the past two years due to cryptocurrency mining (thank you, miners!), price fixing between the big memory chip manufacturers and now an increase in the price of silicon is ominously looming over the industry. We might be reaching a stage where only the wealthy will be able to afford a computer, which goes entirely against what I consider to be the natural order of things as far as technology is concerned. We should be aiming at having it readily available to an increasing number of humans on the planet, regardless of their social and economic status.&lt;/p&gt;
+
+&lt;p&gt;With the massive increase in graphics card prices since the beginning of the year, it has become virtually impossible to buy any card at retail price. Also, pricing on DDR4 RAM won&amp;rsquo;t be going down anytime soon, as early estimates point to a price normalization starting only in Q1 2019, which is ridiculous and downright infuriating. At the time of writing this, a kit of Corsair Vengeance LPX 64 GB (4 x 16 GB) DDR4 3200 MHz C16 is going for £749.54 on Amazon UK&amp;hellip; with a 30% discount. That £750. Let that sink in. £750.&lt;/p&gt;
+
+&lt;p&gt;Increase my productivity with a brand new computer?
+* Er, no. I&amp;rsquo;m postponing it until September/October. It&amp;rsquo;ll take some time and effort to set money aside to afford it.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Front End Developer Cometh</title>
