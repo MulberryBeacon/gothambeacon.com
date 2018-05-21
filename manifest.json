@@ -1,10 +1,10 @@
 {
+    "short_name": "Beacon",
+    "name": "Gotham Beacon",
     "icons": [{
         "src": "icon.png",
         "sizes": "192x192",
         "type": "image/png"
     }],
-    "name": "Gotham Beacon",
-    "short_name": "Gotham Blog",
     "start_url": "/"
 }
