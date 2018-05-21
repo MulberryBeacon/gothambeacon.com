@@ -1,24 +1,19 @@
 {{ partial "head.html" . }}
     <body>
-        <!-- ==================== Header ==================== -->
         {{ partial "header.html" . }}
-
-        <!-- ==================== Content section ==================== -->
         <hr>
         {{ range .Data.Pages.GroupByDate "2006" }}
         <section>
             <h3>{{ .Key }}</h3>
             {{ range .Pages }}
                 <article>
+                    <span>[{{ .Date.Format "02/01/2006" }}]</span>
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span>{{ .Date.Format "02 January, 2006" }}</span>
                 </article>
             {{ end }}
         </section>
         {{ end }}
         <hr>
-
-        <!-- ==================== Footer ==================== -->
         {{ partial "footer.html" . }}
     </body>
 </html>
