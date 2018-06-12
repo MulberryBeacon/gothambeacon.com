@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gothambeacon.com/2018/06/12/back-in-apple/</loc>
+    <lastmod>2018-06-12T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gothambeacon.com/2018/05/30/broken-beat--scarred/</loc>
     <lastmod>2018-05-30T21:00:00+00:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>https://gothambeacon.com/</loc>
-    <lastmod>2018-05-30T21:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gothambeacon.com/post/</loc>
-    <lastmod>2018-05-30T21:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
