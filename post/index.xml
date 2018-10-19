@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Gotham Beacon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Sep 2018 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gothambeacon.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes Ahead</title>
+      <link>https://gothambeacon.com/2018/10/19/changes-ahead/</link>
+      <pubDate>Fri, 19 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2018/10/19/changes-ahead/</guid>
+      <description>My blog is straightforward. Technically speaking, I use the minimum amount of CSS (70 bytes minified) and JavaScript (none, actually) to define a simple layout. I&amp;rsquo;m currently using Hugo as the underlying framework to generate a static site and GitHub Pages for hosting.
+I&amp;rsquo;m getting to a point where I want to take my blog to the next level. I&amp;rsquo;ve been increasingly interested in problem-solving and want to create a specific section to focus on programming challenges.</description>
+    </item>
     
     <item>
       <title>Neil Gaiman’s 8 Rules for Writing</title>
