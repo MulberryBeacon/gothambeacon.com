@@ -17,7 +17,7 @@ But this will involve a significant amount of changes in the current layout of t
 
 Here are some of the changes I want to push forward:
 
-* New logo (yes, I'll unleashing the hidden designer in me)
+* New logo (yes, I'm unleashing the hidden designer in me)
 * Create sections for different topics to better organize the current single list of posts
 * Add labels to add a more fine-grained high-level description of the content on posts
 * Add a treemap to display posts by year
