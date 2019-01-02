@@ -32,31 +32,31 @@ Going into a bit more detail about the individual parts, this is what I’m look
 
 * Processor
 
-  The latest AMD lineup has the best bang for the buck performers in the market. It was easy to write off the Threadripper lineup as wholly overkill for my current (and planned) workflows. I would never be able to justify the price of entry for this platform. That leaves Ryzen 5 and 7, as the minimum is a six-core processor. In both cases, I’ll only spring for the X version if the price difference is £20 or less. Also, since I don't intend to overclock and these processors include a cooler, I avoid spending money on an after-market cooler.
+    The latest AMD lineup has the best bang for the buck performers in the market. It was easy to write off the Threadripper lineup as wholly overkill for my current (and planned) workflows. I would never be able to justify the price of entry for this platform. That leaves Ryzen 5 and 7, as the minimum is a six-core processor. In both cases, I’ll only spring for the X version if the price difference is £20 or less. Also, since I don't intend to overclock and these processors include a cooler, I avoid spending money on an after-market cooler.
 
 * Motherboard
 
-  ASUS, MSI, Gigabyte, and Asrock all have stable motherboards, and I’d gladly go for any of them. The only significant restriction I’m making is going for the X470 chipset due to the increased number of PCIe lanes and better power delivery (on some models, at least). I don’t want to overspend, as motherboards can become quite expensive very quickly, but if the features on a specific model match its price tag, I’ll go for it.
+    ASUS, MSI, Gigabyte, and Asrock all have stable motherboards, and I’d gladly go for any of them. The only significant restriction I’m making is going for the X470 chipset due to the increased number of PCIe lanes and better power delivery (on some models, at least). I don’t want to overspend, as motherboards can become quite expensive very quickly, but if the features on a specific model match its price tag, I’ll go for it.
 
 * RAM
 
-  A 16 GB kit is what I can afford. rKits of 32 GB are just too expensive (the cheapest I found was £280). I’m not very picky regarding brands, although Corsair and G.Skill are usually more available and prone to be on sale.
+    A 16 GB kit is what I can afford. rKits of 32 GB are just too expensive (the cheapest I found was £280). I’m not very picky regarding brands, although Corsair and G.Skill are usually more available and prone to be on sale.
 
 * Storage
 
-  500 GB is the size that I consistently found around my price point for storage. I have a 2 TB Western Digital hard drive (spinning rust) that I intend to use as an external backup disk and store mostly static data. I haven't decided if I'm going with a regular SATA M.2 or NVMe drive, but fewer cables dangling inside the case is the way to go. The later would be better to achieve the best possible throughput during I/O intensive workflows, but I'm not sure if the price difference is worth it. Either way, given the recent fall in storage prices, it shouldn't be too hard to make up my mind in this category.
+    500 GB is the size that I consistently found around my price point for storage. I have a 2 TB Western Digital hard drive (spinning rust) that I intend to use as an external backup disk and store mostly static data. I haven't decided if I'm going with a regular SATA M.2 or NVMe drive, but fewer cables dangling inside the case is the way to go. The later would be better to achieve the best possible throughput during I/O intensive workflows, but I'm not sure if the price difference is worth it. Either way, given the recent fall in storage prices, it shouldn't be too hard to make up my mind in this category.
 
 * Graphics card
 
-  My preference would be an EVGA card, but they’re the most expensive of the lot, followed closely by Asus. Also, these two brands are the less likely to be on sale. As for the model, the 1070 Ti is an excellent performer in both games and ML workflows. From all the reviews I’ve read and watched, it’s one of the best bang for the buck cards on the market. The price tag on them is within my budget, which makes them the (almost) perfect choice. I haven’t forgotten the RX Vega 56 and 64. Some models are showing up at enticing prices (namely the ASUS ROG Strix versions), so I’ll keep them in mind. 
+    My preference would be an EVGA card, but they’re the most expensive of the lot, followed closely by Asus. Also, these two brands are the less likely to be on sale. As for the model, the 1070 Ti is an excellent performer in both games and ML workflows. From all the reviews I’ve read and watched, it’s one of the best bang for the buck cards on the market. The price tag on them is within my budget, which makes them the (almost) perfect choice. I haven’t forgotten the RX Vega 56 and 64. Some models are showing up at enticing prices (namely the ASUS ROG Strix versions), so I’ll keep them in mind. 
 
 * Power supply
 
-  I’m leaning towards Seasonic and Corsair, as they make some of the best PSUs. A 650 W unit should be more than enough to power the computer. It’ll have to be fully modular to (again) reduce the number of cables inside the case.
+    I’m leaning towards Seasonic and Corsair, as they make some of the best PSUs. A 650 W unit should be more than enough to power the computer. It’ll have to be fully modular to (again) reduce the number of cables inside the case.
 
 * Case
 
-  No special preferences. I like Fractal Design and BeQuiet, but the price will be the deciding factor. I don't need a glass side panel. I don't need aggressive color layouts. And, most of all, I don't need RGB. I despise RGB.
+    No special preferences. I like Fractal Design and BeQuiet, but the price will be the deciding factor. I don't need a glass side panel. I don't need aggressive color layouts. And, most of all, I don't need RGB. I despise RGB.
 
 Black Friday is in full swing, so I’ll hopefully get this sorted over the next few days.
 
