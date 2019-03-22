@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Gotham Beacon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jan 2019 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 21:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gothambeacon.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Year, Old Apple</title>
+      <link>https://gothambeacon.com/2019/03/22/new-year-old-apple/</link>
+      <pubDate>Fri, 22 Mar 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/2019/03/22/new-year-old-apple/</guid>
+      <description>2018 was widely considered a disappointing year for Apple on several fronts and most of its casual and power users were hoping that 2019 would present itself as a sort of rebirth for the company. It would slowly go back to the golden age of Steve Jobs at its helm by catering to their pro users with proper hardware and simplifying their hardware lineups to offer just the right amount of options for the right prices (including Apple tax).</description>
+    </item>
     
     <item>
       <title>The Home Office (Hardware Edition)</title>
