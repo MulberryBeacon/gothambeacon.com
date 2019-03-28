@@ -60,7 +60,7 @@
         </section>
         <hr>
         <footer>
-    <p>&copy; Copyright 2012-2018, <a href="https://mulberrybeacon.com">Eduardo Ferreira</a>
+    <p>&copy; Copyright 2012-<span id="year"></span>, <a href="https://mulberrybeacon.com">Eduardo Ferreira</a>
     <br>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
     <br>Powered by <a href="https://github.com/gohugoio/hugo">Hugo</a> and <a href="https://pages.github.com">GitHub Pages</a></p>
 </footer>
@@ -73,6 +73,14 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-32484218-1');
+</script>
+<script>
+  (function () {
+    var field = document.getElementById('year');
+    if (field) {
+      field.textContent = new Date().getFullYear();
+    }
+  })()
 </script>
     </body>
 </html>
