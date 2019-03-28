@@ -7,7 +7,7 @@ Powered by [Hugo](https://github.com/gohugoio/hugo) and [GitHub Pages](https://p
 
 ## License
 
-Copyright © 2012-2018 Eduardo Ferreira
+Copyright © 2012-2019 Eduardo Ferreira
 
 The content in this repository is licensed under the 
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internacional License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
