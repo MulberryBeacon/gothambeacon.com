@@ -14,3 +14,5 @@ I plan on getting back to writing over the next couple of weeks. My previous att
 6. Fix it. Remember that, sooner or later, before it ever reaches perfection, you will have to let it go and move on and start to write the next thing. Perfection is like chasing the horizon. Keep moving.
 7. Laugh at your own jokes.
 8. The main rule of writing is that if you do it with enough assurance and confidence, you’re allowed to do whatever you like. (That may be a rule for life as well as for writing. But it’s definitely true for writing.) So write your story as it needs to be written. Write it ­honestly, and tell it as best you can. I’m not sure that there are any other rules. Not ones that matter.
+
+<img src="https://z30zgw.db.files.1drv.com/y4m-cAHh_3hAJD8fM7hz-TW4RRDl-Xx-T8Dr3apmAgCdh2c1TMnUaSyTap6Jbykuthf3klRMgWf5ckCnuLUi8rE1rBvEX1sRrrHV6k4E7ITleiWOgo0TQQYBBgmREgWzenYQH4ODt1QXKtZDmGX8y9aBhNZ59tvMUWBBlmjwKaoFLdMJEXtZFWq4mAgNFio5Nys?width=1000&height=1535&cropmode=none" width="1000" height="1535" />
