@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gothambeacon.com/2019/04/21/the-home-office-software-edition/</loc>
+    <lastmod>2019-04-21T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gothambeacon.com/2019/04/06/game-pass-ultimate/</loc>
     <lastmod>2019-04-06T11:00:00+00:00</lastmod>
   </url>
@@ -124,13 +129,13 @@
   
   <url>
     <loc>https://gothambeacon.com/</loc>
-    <lastmod>2019-04-06T11:00:00+00:00</lastmod>
+    <lastmod>2019-04-21T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gothambeacon.com/post/</loc>
-    <lastmod>2019-04-06T11:00:00+00:00</lastmod>
+    <lastmod>2019-04-21T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
