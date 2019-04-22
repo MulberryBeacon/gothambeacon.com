@@ -14,7 +14,7 @@ Unfortunately, one of my major grievances with Windows is what makes it virtuall
 
 Another issue I have is with the amount of telemetry data that the operating system tries to collect. Even if you disable all the options related to data collection, you’re never truly able to disable everything, and installing major system updates resets all these options. This topic is quite disappointing, but not a blocker and, unfortunately, commonplace in proprietary operating systems like Windows and macOS. And let’s not forget the amount of pre-installed bloatware. A fresh install of Windows 10 shouldn’t include Minecraft, Deezer Music, Flipboard, Fitbit Coach, Music Maker Jam, Candy Crush Saga, Candy Crush Friends Saga, and Disney Magic Kingdoms.
 
-#### Virtualising Like a Boss
+#### Virtualizing Like a Boss
 
 For work purposes, and given my gripes with WSL, there was no question that the best approach would be to use virtual machines. I played around with Microsoft’s Hyper-V to run and manage virtual machines, but the graphical performance was subpar. Without any additional drivers available (like VirtualBox Guest Extensions and VMWare Tools), I couldn’t possibly move forward with this setup to run different Linux distros. VMWare ended up coming on top for a few reasons:
 
