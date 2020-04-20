@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="author" content="Eduardo Ferreira">
+      <meta name="description" content="Gotham Beacon contains the ramblings of an aging Bruce Wayne.">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>Gotham Beacon</title>
+
+      <link rel="stylesheet" type="text/css" href="/css/stylesheet.min.css">
+  </head>
+  <body>
+      <header>
+          <h1><a href="https://gothambeacon.com/batcave">Gotham Beacon</a></h1>
+      </header>
+      <hr>
+      
+<section>
+    <h3>Eddie&#39;s Back!</h3>
+    <article>
+        <p>I finally picked up my blog again. After 2 years of blatant neglect, I picked up the shambles of the (now) previous version and started from scratch. To avoid rocking the boat too much and speed up its deployment, I decided to keep it as a static website and deployed with <a href="https://pages.github.com/">GitHub Pages</a>. My initial goal was to move away from <a href="https://jekyllrb.com/">Jekyll</a> and adopt a Python based static website generator. The ones I tested were:</p>
+<ul>
+<li>Combination of <a href="http://flask.pocoo.org/">Flask</a> + <a href="https://pythonhosted.org/Flask-FlatPages/">Flask-FlatPages</a> + <a href="https://pythonhosted.org/Frozen-Flask/">Frozen-Flask</a></li>
+<li><a href="https://hyde.github.io/">Hyde</a></li>
+<li><a href="https://blog.getpelican.com/">Pelican</a></li>
+<li><a href="https://www.getlektor.com/">Lektor</a></li>
+</ul>
+<p>I could&rsquo;ve tried many more (e.g. Hexo, Hugo, Brunch, Middleman, Harp, Expose), but instead focused on these 4 options and none of them made things as easy as Jekyll to quickly deploy a site. The main goal of having this blog is to be able to write and not having to worry (too much) about making several changes in the underlying structure just to accommodate slight changes in the overall look and feel.</p>
+<p>Alas, after many trial and errors, I moved back to Jekyll. And it took me just a couple of hours to create a new website from scratch and import the content and custom settings from the old blog. As I put everything together with the latest versions of <a href="https://html5boilerplate.com/">HTML5 Boilerplate</a> and <a href="https://getbootstrap.com/">Bootstrap</a>, I made a few UI changes:</p>
+<ul>
+<li>Removed the Bat-signal ASCII art from the page header. I&rsquo;ll probably bring it back again, but not sure how</li>
+<li>Removed the vertical menu on the left side. It&rsquo;ll come back, but in a different format</li>
+<li>Removed the <code>border-radius</code> from the <code>div</code> elements with the post boxes</li>
+<li>Removed the footer from the post boxes
+<ul>
+<li>The permanent link to the post that was available under the &ldquo;Follow the white rabbit&rdquo; link has been migrated to the post title</li>
+<li>The buttons to share the post in several social media outlets are gone as well. Honestly, they made me feel like a bit of an attention whore. I just want to write stuff and, if people choose to read it and share, that&rsquo;s fine. If not, that&rsquo;s fine as well</li>
+</ul>
+</li>
+</ul>
+<p>There are still quite a few changes I need to make. Migrating to Bootstrap 4 alpha seems to have led to an overall quirky layout, given that I barely touched the custom CSS file I brought over from the previous version of the blog. Font size, padding, margins&hellip; lots of stuff to review.</p>
+<p>One additional thing I changed was the license. I moved to the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internacional License</a>. Still not sure if I chose the right license, as the more permissive <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> also seems quite friendly.</p>
+<p>Going back to my last post (back in April 2016), I&rsquo;m definitely going to be much more active than I&rsquo;ve been so far by posting stuff about several topics. At least, I intend to.</p>
+
+    </article>
+</section>
+
+      <hr>
+      <footer>
+          <p>&copy; Copyright 2012-<span id="year"></span>, <a href="https://mulberrybeacon.com">Eduardo Ferreira</a>
+          <br>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
+          <br>Powered by <a href="https://github.com/gohugoio/hugo">Hugo</a> and <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32484218-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-32484218-1');
+      </script>
+      <script>
+        (function () {
+          var field = document.getElementById('year');
+          if (field) {
+            field.textContent = new Date().getFullYear();
+          }
+        })()
+      </script>
+  </body>
+</html>
