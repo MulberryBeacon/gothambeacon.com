@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Gotham Beacon</title>
-    <link>https://gothambeacon.com/batcave/blog/</link>
+    <link>https://gothambeacon.com/blog/</link>
     <description>Recent content in Blog on Gotham Beacon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Apr 2020 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gothambeacon.com/batcave/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gothambeacon.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The World is Dead. Long Live the World.</title>
-      <link>https://gothambeacon.com/batcave/blog/2020/04/20/the-world-is-dead.-long-live-the-world./</link>
+      <link>https://gothambeacon.com/blog/2020/04/20/the-world-is-dead.-long-live-the-world./</link>
       <pubDate>Mon, 20 Apr 2020 20:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2020/04/20/the-world-is-dead.-long-live-the-world./</guid>
+      <guid>https://gothambeacon.com/blog/2020/04/20/the-world-is-dead.-long-live-the-world./</guid>
       <description>Almost a year has passed since I last wrote anything on this blog. So much has happened that I don&amp;rsquo;t even know where to begin. As a wise human once said, maybe it&amp;rsquo;s best if I just start at the beginning.
 Around this time last year, I was starting to have second thoughts about the company I was working at. The true nature of some people in the team had become all too clear and, once again, so I wondered if I&amp;rsquo;d made (yet) another blunder in choosing a place to work at.</description>
     </item>
     
     <item>
       <title>The Home Office (Software Edition)</title>
-      <link>https://gothambeacon.com/batcave/blog/2019/04/21/the-home-office-software-edition/</link>
+      <link>https://gothambeacon.com/blog/2019/04/21/the-home-office-software-edition/</link>
       <pubDate>Sun, 21 Apr 2019 20:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2019/04/21/the-home-office-software-edition/</guid>
+      <guid>https://gothambeacon.com/blog/2019/04/21/the-home-office-software-edition/</guid>
       <description>With the desktop PC in place, the next step was to rethink my software infrastructure. That meant reviewing the way I work and watch media content at home to choose the right software to make everything as flawless as possible.
 Operating System The primary operating system was easy enough to choose. I’ve been using Windows 10 for almost three years now, and the overall experience has been positive. I like the user interface, and it&amp;rsquo;s easy enough to customize.</description>
     </item>
     
     <item>
       <title>New Year, Old Apple</title>
-      <link>https://gothambeacon.com/batcave/blog/2019/03/22/new-year-old-apple/</link>
+      <link>https://gothambeacon.com/blog/2019/03/22/new-year-old-apple/</link>
       <pubDate>Fri, 22 Mar 2019 21:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2019/03/22/new-year-old-apple/</guid>
+      <guid>https://gothambeacon.com/blog/2019/03/22/new-year-old-apple/</guid>
       <description>2018 was widely considered a disappointing year for Apple on several fronts and most of its casual and power users were hoping that 2019 would present itself as a sort of rebirth for the company. It would slowly go back to the golden age of Steve Jobs at its helm by catering to their pro users with proper hardware and simplifying their hardware lineups to offer just the right amount of options for the right prices (including Apple tax).</description>
     </item>
     
     <item>
       <title>The Home Office (Hardware Edition)</title>
-      <link>https://gothambeacon.com/batcave/blog/2019/01/02/the-home-office-hardware-edition/</link>
+      <link>https://gothambeacon.com/blog/2019/01/02/the-home-office-hardware-edition/</link>
       <pubDate>Wed, 02 Jan 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2019/01/02/the-home-office-hardware-edition/</guid>
+      <guid>https://gothambeacon.com/blog/2019/01/02/the-home-office-hardware-edition/</guid>
       <description>I faced the madness that was Black Friday (week) and Cyber Monday (week) and emerged victoriously. I was able to find very good deals on the components I needed for the desktop computer. As an added bonus, I kept the total cost under budget.
   Processor: AMD Ryzen 5 2600X
 For budget reasons, the Ryzen 5 2600 was the only viable option. I pounced on a lightning deal on Amazon and got the X version for £19 over the regular version.</description>
@@ -53,143 +53,143 @@ For budget reasons, the Ryzen 5 2600 was the only viable option. I pounced on a 
     
     <item>
       <title>The Home Office Setup Rises</title>
-      <link>https://gothambeacon.com/batcave/blog/2018/11/20/the-home-office-setup-rises/</link>
+      <link>https://gothambeacon.com/blog/2018/11/20/the-home-office-setup-rises/</link>
       <pubDate>Tue, 20 Nov 2018 20:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2018/11/20/the-home-office-setup-rises/</guid>
+      <guid>https://gothambeacon.com/blog/2018/11/20/the-home-office-setup-rises/</guid>
       <description>About five weeks ago, my Surface Pro 3 stopped charging. Out of the blue, the white charger light went out to never shine again. The power brick could charge devices through the USB port, but it wasn&amp;rsquo;t charging the Surface. Although I was never really in love with it, the Surface served its purpose over the past two years and took quite a bit of abuse regarding workload. It would be a shame if I had to let it go at this point, as I intended to continue using it as a tablet.</description>
     </item>
     
     <item>
       <title>Changes Ahead</title>
-      <link>https://gothambeacon.com/batcave/blog/2018/10/19/changes-ahead/</link>
+      <link>https://gothambeacon.com/blog/2018/10/19/changes-ahead/</link>
       <pubDate>Fri, 19 Oct 2018 20:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2018/10/19/changes-ahead/</guid>
+      <guid>https://gothambeacon.com/blog/2018/10/19/changes-ahead/</guid>
       <description>My blog is straightforward. Technically speaking, I use the minimum amount of CSS (70 bytes minified) and JavaScript (none, actually) to define a simple layout. I&amp;rsquo;m currently using Hugo as the underlying framework to generate a static site and GitHub Pages for hosting.
 I&amp;rsquo;m getting to a point where I want to take my blog to the next level. I&amp;rsquo;ve been increasingly interested in problem-solving and want to create a specific section to focus on programming challenges.</description>
     </item>
     
     <item>
       <title>Back in Apple</title>
-      <link>https://gothambeacon.com/batcave/blog/2018/06/12/back-in-apple/</link>
+      <link>https://gothambeacon.com/blog/2018/06/12/back-in-apple/</link>
       <pubDate>Tue, 12 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2018/06/12/back-in-apple/</guid>
+      <guid>https://gothambeacon.com/blog/2018/06/12/back-in-apple/</guid>
       <description>After two years away from Apple devices (aside from occasionally using the household iPad), I’m now back in full force. Last December, the CEO at my previous company decided to upgrade his iPhone and I took his old one off his hands: a 6s Plus 128 GB Space Gray that I consider to be grade B (impeccable screen with a few scuffs in the frame and a small knock on the back).</description>
     </item>
     
     <item>
       <title>Broken, Beat &amp; Scarred</title>
-      <link>https://gothambeacon.com/batcave/blog/2018/05/30/broken-beat-scarred/</link>
+      <link>https://gothambeacon.com/blog/2018/05/30/broken-beat-scarred/</link>
       <pubDate>Wed, 30 May 2018 21:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2018/05/30/broken-beat-scarred/</guid>
+      <guid>https://gothambeacon.com/blog/2018/05/30/broken-beat-scarred/</guid>
       <description>When I got up this morning, a song went on an infinite loop in my head: “Broken, Beat &amp;amp; Scarred” by Metallica. That’s how I feel after these past two years and 10 months at my now ex-job. I’ll eventually write something about this experience, but I need a couple of months to cool off and collect my thoughts.
   </description>
     </item>
     
     <item>
       <title>New Setup</title>
-      <link>https://gothambeacon.com/batcave/blog/2018/05/19/new-setup/</link>
+      <link>https://gothambeacon.com/blog/2018/05/19/new-setup/</link>
       <pubDate>Sat, 19 May 2018 23:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2018/05/19/new-setup/</guid>
+      <guid>https://gothambeacon.com/blog/2018/05/19/new-setup/</guid>
       <description>My trusty old 2008 MacBook was a faithful companion for many years until it became unbearably slow and unable to keep up with the software I was running. With a slow Core 2 Duo at 2.4 GHz and only 4 GB of RAM, the 120 GB SSD was the only thing that kept it reasonably responsive. I gave it to my parents in the summer of 2016 (they occasionally use it as a browsing terminal) and got a second-hand Surface Pro 3.</description>
     </item>
     
     <item>
       <title>The Front End Developer Cometh</title>
-      <link>https://gothambeacon.com/batcave/blog/2017/07/19/the-front-end-developer-cometh/</link>
+      <link>https://gothambeacon.com/blog/2017/07/19/the-front-end-developer-cometh/</link>
       <pubDate>Wed, 19 Jul 2017 20:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2017/07/19/the-front-end-developer-cometh/</guid>
+      <guid>https://gothambeacon.com/blog/2017/07/19/the-front-end-developer-cometh/</guid>
       <description>I&amp;rsquo;ve reinvented myself a few times throughout my career and it&amp;rsquo;s that time again. Over the next four months, I&amp;rsquo;ll be working as a full-time front end developer. My last hardcore project involving JavaScript was 5 years ago when I wrote around 2000 lines of vanilla JavaScript and jQuery at an insurance company. To be honest with myself, I wrote that code without actually knowing how to code in JavaScript. It was something that needed to be done and I got it done, as simple as that.</description>
     </item>
     
     <item>
       <title>Eddie&#39;s Back!</title>
-      <link>https://gothambeacon.com/batcave/blog/2017/07/16/eddies-back/</link>
+      <link>https://gothambeacon.com/blog/2017/07/16/eddies-back/</link>
       <pubDate>Sun, 16 Jul 2017 13:33:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2017/07/16/eddies-back/</guid>
+      <guid>https://gothambeacon.com/blog/2017/07/16/eddies-back/</guid>
       <description>I finally picked up my blog again. After 2 years of blatant neglect, I picked up the shambles of the (now) previous version and started from scratch. To avoid rocking the boat too much and speed up its deployment, I decided to keep it as a static website and deployed with GitHub Pages. My initial goal was to move away from Jekyll and adopt a Python based static website generator. The ones I tested were:</description>
     </item>
     
     <item>
       <title>New Website</title>
-      <link>https://gothambeacon.com/batcave/blog/2016/04/04/new-website/</link>
+      <link>https://gothambeacon.com/blog/2016/04/04/new-website/</link>
       <pubDate>Mon, 04 Apr 2016 15:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2016/04/04/new-website/</guid>
+      <guid>https://gothambeacon.com/blog/2016/04/04/new-website/</guid>
       <description>I&amp;rsquo;ve been neglecting my blog for over a year now. When I published my latest post a few days ago, I noticed that the site was a bit outdated (code, web framework, layouts, etc.).
 To be honest, patching it up at this stage would be a waste of time. It needs to be rebuilt from the ground up. I&amp;rsquo;ve been doing some catching up with what the cool kids (a.k.a. front end developers) are using these days.</description>
     </item>
     
     <item>
       <title>Fan Fiction. Or Is It?</title>
-      <link>https://gothambeacon.com/batcave/blog/2016/03/26/fan-fiction.-or-is-it/</link>
+      <link>https://gothambeacon.com/blog/2016/03/26/fan-fiction.-or-is-it/</link>
       <pubDate>Sat, 26 Mar 2016 23:00:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2016/03/26/fan-fiction.-or-is-it/</guid>
+      <guid>https://gothambeacon.com/blog/2016/03/26/fan-fiction.-or-is-it/</guid>
       <description>I&amp;rsquo;ve always been conflicted about fan fiction. A mix of having so much stuff to read from well known authors and not bothering to look for high quality fan fiction (it&amp;rsquo;s out there if you look long and hard) has led me to ignore it almost completely.
 But this is something else. I don&amp;rsquo;t know if calling it fan fiction would be insulting, so I won&amp;rsquo;t. What I&amp;rsquo;ll say is that this short story (yes, I&amp;rsquo;ll call it that) is one of the most brilliant pieces I&amp;rsquo;ve read about Batman that wasn&amp;rsquo;t written by someone on DC&amp;rsquo;s payroll.</description>
     </item>
     
     <item>
       <title>The Long Halloween</title>
-      <link>https://gothambeacon.com/batcave/blog/2014/12/23/the-long-halloween/</link>
+      <link>https://gothambeacon.com/blog/2014/12/23/the-long-halloween/</link>
       <pubDate>Tue, 23 Dec 2014 16:40:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2014/12/23/the-long-halloween/</guid>
+      <guid>https://gothambeacon.com/blog/2014/12/23/the-long-halloween/</guid>
       <description>On the eve of Halloween, an early e-mail notified Coriant employees that a town hall meeting would be held at the company&amp;rsquo;s premisses that same afternoon with one of our German overlords. I was working from home that day and couldn&amp;rsquo;t attend, but everyone sort of knew that bad news were coming our way. The last financial reports were pretty bad and extreme cost saving measures were on the pipeline.</description>
     </item>
     
     <item>
       <title>Friendship</title>
-      <link>https://gothambeacon.com/batcave/blog/2014/05/09/friendship/</link>
+      <link>https://gothambeacon.com/blog/2014/05/09/friendship/</link>
       <pubDate>Fri, 09 May 2014 16:40:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2014/05/09/friendship/</guid>
+      <guid>https://gothambeacon.com/blog/2014/05/09/friendship/</guid>
       <description>I&amp;rsquo;ve been thinking about the meaning of friendship. Although it initially felt like being kicked in the chest by Leonidas, it actually clarified the role that some of my friends play in my life and I ended up figuring out how to react to these new findings.
 I think that friends should be comfortable sharing with one another. Sure, you might share or discuss specific topics with specific friends according to a set of common interests (e.</description>
     </item>
     
     <item>
       <title>New Life</title>
-      <link>https://gothambeacon.com/batcave/blog/2014/04/08/new-life/</link>
+      <link>https://gothambeacon.com/blog/2014/04/08/new-life/</link>
       <pubDate>Tue, 08 Apr 2014 23:10:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2014/04/08/new-life/</guid>
+      <guid>https://gothambeacon.com/blog/2014/04/08/new-life/</guid>
       <description>A home away from home. That&amp;rsquo;s what London will be for my wife from now on. She&amp;rsquo;s writing a new page in her career as a registered nurse by taking up a position at the Great Ormond Street Hospital. The thick of it is that I&amp;rsquo;ll be living in Portugal with our young daughter for the time being. Since she&amp;rsquo;ll be doing most of the traveling, the first sentence seems like a perfect fit for her life style from now on.</description>
     </item>
     
     <item>
       <title>The Shackles of Social Networks</title>
-      <link>https://gothambeacon.com/batcave/blog/2014/02/19/the-shackles-of-social-networks/</link>
+      <link>https://gothambeacon.com/blog/2014/02/19/the-shackles-of-social-networks/</link>
       <pubDate>Wed, 19 Feb 2014 11:30:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2014/02/19/the-shackles-of-social-networks/</guid>
+      <guid>https://gothambeacon.com/blog/2014/02/19/the-shackles-of-social-networks/</guid>
       <description>Social networks can be a blessing for information hungry people like myself. When Google announced that Reader was going to be buried six feet under, I couldn&amp;rsquo;t have cared less. Twitter and Google Plus had been my news feeds for some time and, as an added bonus, I was able to follow some pretty interesting people that could be considered experts in their fields.
 As I increasingly spent more time checking my timeline for whatever reason, a darker side to social networking started surfacing.</description>
     </item>
     
     <item>
       <title>Being Ignored</title>
-      <link>https://gothambeacon.com/batcave/blog/2013/07/02/being-ignored/</link>
+      <link>https://gothambeacon.com/blog/2013/07/02/being-ignored/</link>
       <pubDate>Tue, 02 Jul 2013 14:30:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2013/07/02/being-ignored/</guid>
+      <guid>https://gothambeacon.com/blog/2013/07/02/being-ignored/</guid>
       <description>I hate being ignored. It&amp;rsquo;s one of my (many) pet peeves. Unfortunately, it&amp;rsquo;s precisely the kind of antics seen in many technical recruiters.
 Last month I was ignored by two recruiters through LinkedIn. I sent a couple of InMails apologizing for the approach and asking if they could spare a couple of minutes to answer some quick questions regarding their como anise. The only reply I got was silence. Pure and simple.</description>
     </item>
     
     <item>
       <title>Once Upon a Time</title>
-      <link>https://gothambeacon.com/batcave/blog/2013/01/25/once-upon-a-time/</link>
+      <link>https://gothambeacon.com/blog/2013/01/25/once-upon-a-time/</link>
       <pubDate>Fri, 25 Jan 2013 15:44:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2013/01/25/once-upon-a-time/</guid>
+      <guid>https://gothambeacon.com/blog/2013/01/25/once-upon-a-time/</guid>
       <description>Let me tell you a story. Once upon a time there was a little boy.
 The little boy fell in love with computers when he was just seven or eight. That would be his future, he thought. To work with computers and change the world would be his ultimate goal in life.
 He did really well in school until he reached the 10th grade. Faced with the pressure of needing good grades to get into university, he struggled to keep his previous track record.</description>
@@ -197,30 +197,30 @@ He did really well in school until he reached the 10th grade. Faced with the pre
     
     <item>
       <title>The Times They Are a Changin&#39;</title>
-      <link>https://gothambeacon.com/batcave/blog/2013/01/14/the-times-they-are-a-changin/</link>
+      <link>https://gothambeacon.com/blog/2013/01/14/the-times-they-are-a-changin/</link>
       <pubDate>Mon, 14 Jan 2013 14:24:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2013/01/14/the-times-they-are-a-changin/</guid>
+      <guid>https://gothambeacon.com/blog/2013/01/14/the-times-they-are-a-changin/</guid>
       <description>The New Year is upon us and it&amp;rsquo;ll certainly go down in history as a year of hardship and sacrifice in Portugal. And here&amp;rsquo;s why.
 Taxes Due to the ridiculous austerity measures that will come into effect right from the get go, the vast majority of the Portuguese people will have to adjust to a harsher financial reality. The middle class (some would call it the heart and soul of the country) will be hit particularly hard by Venom-pumped taxes, pushing it towards what could turn out to be a Greek breaking point, if you know what I mean.</description>
     </item>
     
     <item>
       <title>Codebits V</title>
-      <link>https://gothambeacon.com/batcave/blog/2012/07/27/codebits-v/</link>
+      <link>https://gothambeacon.com/blog/2012/07/27/codebits-v/</link>
       <pubDate>Fri, 27 Jul 2012 17:01:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2012/07/27/codebits-v/</guid>
+      <guid>https://gothambeacon.com/blog/2012/07/27/codebits-v/</guid>
       <description>I&amp;rsquo;d been planning to do this since the beginning of 2012, but so much happened over the past eight months that it sort of slipped down the pecking order on my ToDo list.
 While visiting the Codebits website to do a small profile update and check out the latest news for this year&amp;rsquo;s event, I came across the So, what can YOU do for Codebits? post. And so, here&amp;rsquo;s a brief overview of my experience at Codebits V, which took place on 10th-12th November 2011.</description>
     </item>
     
     <item>
       <title>First post!</title>
-      <link>https://gothambeacon.com/batcave/blog/2012/06/01/first-post/</link>
+      <link>https://gothambeacon.com/blog/2012/06/01/first-post/</link>
       <pubDate>Fri, 01 Jun 2012 19:18:00 +0000</pubDate>
       
-      <guid>https://gothambeacon.com/batcave/blog/2012/06/01/first-post/</guid>
+      <guid>https://gothambeacon.com/blog/2012/06/01/first-post/</guid>
       <description>After months of hesitation (due to both work and personal issues), I finally went ahead and created this modest web site. It was the perfect excuse to have a crack at WordPress, since the goal was to roll out its first version in the smallest possible time frame. It&amp;rsquo;ll surely go through some changes in the near future (structure, content and presentation wise) as I explore what WordPress has to offer and come to terms with the kind of content I want to share.</description>
     </item>
     
