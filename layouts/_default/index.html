@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ range .Site.RegularPages.GroupByDate "2006" }}
+<section>
+    <h3>{{ .Key }}</h3>
+    {{ range .Pages }}
+        <article>
+            <span>[{{ .Date.Format "02/01/2006" }}]</span>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </article>
+    {{ end }}
+</section>
+{{ end }}
+{{ end }}

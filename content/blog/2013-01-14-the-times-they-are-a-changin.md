@@ -17,7 +17,7 @@ As a member of the dwindling middle class, my wife and I are making adjustments 
 Back to the budget... I've decided to go ahead with some action points that will have an immediate impact on our monthly expenses:
 * Stop using the subway in Lisbon. Having to juggle between train, subway and bus (one every *40* minutes) during my daily commute, the amount of delays caused by malfunctions and the wait period between trains is a disaster waiting to happen every day. Besides saving a pretty penny, I'll add a 4.8 Km round trip walk to my daily routine, upping the tally to 8.8 Km (getting Batman-like fit is one of my main goals for 2013).
 
-* Cancel my 3G network subscription. The next couple of months will be payed with credit points from my mobile provider account. I'll just have to get used to not having Internet access outside of Wi-Fi covered areas.
+* Cancel my 3G network subscription. The next couple of months will be paid with credit points from my mobile provider account. I'll just have to get used to not having Internet access outside of Wi-Fi covered areas.
 
 * Change my prepaid mobile plan from a mandatory €25 per three months to a free payment regime. I don't talk on the phone that much and a pay as you go plan ends up being cheaper and much better suited to my needs.
 
