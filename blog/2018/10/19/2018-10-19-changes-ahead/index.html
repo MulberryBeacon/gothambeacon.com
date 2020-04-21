@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="author" content="Eduardo Ferreira">
+      <meta name="description" content="Gotham Beacon contains the ramblings of an aging Bruce Wayne.">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>Gotham Beacon</title>
+
+      <link rel="stylesheet" type="text/css" href="/css/stylesheet.min.css">
+  </head>
+  <body>
+      <header>
+          <h1><a href="https://batcave.gothambeacon.com">Gotham Beacon</a></h1>
+      </header>
+      <hr>
+      
+<section>
+    <h3>Changes Ahead</h3>
+    <article>
+        <p>My blog is straightforward. Technically speaking, I use the minimum amount of CSS (70 bytes minified) and JavaScript (none, actually) to define a simple layout. I&rsquo;m currently using <a href="https://gohugo.io/">Hugo</a> as the underlying framework to generate a static site and <a href="https://pages.github.com/">GitHub Pages</a> for hosting.</p>
+<p>I&rsquo;m getting to a point where I want to take my blog to the next level. I&rsquo;ve been increasingly interested in problem-solving and want to create a specific section to focus on programming challenges. I also want to start a new personal challenge of trying out different technologies and writing a brief description of the overall experience and how to take the first steps. I would also publish on <a href="https://github.com/">GitHub</a> any code resulting from these experiences.</p>
+<p>But this will involve a significant amount of changes in the current layout of the blog. At this point, I&rsquo;m wondering if I should keep going with Hugo or take the opportunity and move to another framework. <a href="https://www.gatsbyjs.org/">Gatsby</a> has been under my radar for quite some time now and brings several cool things to the table:</p>
+<ul>
+<li>Could be the perfect excuse to dig into <a href="https://reactjs.org/">React</a> finally</li>
+<li>It would give me more flexibility regarding defining templates for specific sections of the blog</li>
+<li>These templates would be used for any site I build in the future, keeping the same look and feel in everything I create</li>
+<li>The performance metrics on sites created with Gatsby are very impressive.</li>
+</ul>
+<p>Here are some of the changes I want to push forward:</p>
+<ul>
+<li>New logo (yes, I&rsquo;m unleashing the hidden designer in me)</li>
+<li>Create sections for different topics to better organize the current single list of posts</li>
+<li>Add labels to add a more fine-grained high-level description of the content on posts</li>
+<li>Add a treemap to display posts by year</li>
+<li>Add the publish date to each post and the list of updates with the corresponding dates</li>
+<li>Integrate my <a href="https://mulberrybeacon.com/">introduction page</a> into the blog as a sort of &ldquo;About Me&rdquo; page.</li>
+</ul>
+<p>The next steps will be:</p>
+<ul>
+<li>Slowly change the current template to increasingly match what I envision to be the future layout for the blog</li>
+<li>Create a small prototype with Gatsby to better grasp the learning curve in both bootstrapping a new website with this framework and porting the current layout to React.</li>
+</ul>
+<p>Oh, and keep writing!</p>
+
+    </article>
+</section>
+
+      <hr>
+      <footer>
+          <p>&copy; Copyright 2012-<span id="year"></span>, <a href="https://mulberrybeacon.com">Eduardo Ferreira</a>
+          <br>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
+          <br>Powered by <a href="https://github.com/gohugoio/hugo">Hugo</a> and <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32484218-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-32484218-1');
+      </script>
+      <script>
+        (function () {
+          var field = document.getElementById('year');
+          if (field) {
+            field.textContent = new Date().getFullYear();
+          }
+        })()
+      </script>
+  </body>
+</html>
