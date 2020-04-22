@@ -1,6 +1,9 @@
 ---
 title: The Home Office (Hardware Edition)
+slug: the-home-office-hardware-edition
 date: 2019-01-02 16:00:00
+aliases:
+    - /2019/01/02/the-home-office-hardware-edition/
 description: I faced the madness that was Black Friday (week) and Cyber Monday (week) and emerged victoriously. I was able to find very good deals on the components I needed for the desktop computer. As an added bonus, I kept the total cost under budget.
 ---
 

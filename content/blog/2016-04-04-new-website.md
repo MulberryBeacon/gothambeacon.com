@@ -1,6 +1,9 @@
 ---
 title: New Website
+slug: new-website
 date: 2016-04-04 15:00:00
+aliases:
+    - /2016/04/04/new-website/
 description: I've been neglecting my blog for over a year now. When I published my latest post a few days ago, I noticed that the site was a bit outdated (code, web framework, layouts, etc.).
 ---
 

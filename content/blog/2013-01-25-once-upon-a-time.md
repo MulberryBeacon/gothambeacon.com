@@ -1,6 +1,9 @@
 ---
 title: Once Upon a Time
+slug: once-upon-a-time
 date: 2013-01-25 15:44:00
+aliases:
+    - /2013/01/25/once-upon-a-time/
 description: Let me tell you a story. Once upon a time there was a little boy.
 ---
 

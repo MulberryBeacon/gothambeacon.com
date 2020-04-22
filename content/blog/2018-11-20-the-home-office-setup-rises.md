@@ -1,6 +1,9 @@
 ---
 title: The Home Office Setup Rises
+slug: the-home-office-setup-rises
 date: 2018-11-20 20:00:00
+aliases:
+    - /2018/11/20/the-home-office-setup-rises/
 description: About five weeks ago, my Surface Pro 3 stopped charging. Out of the blue, the white charger light went out to never shine again.
 ---
 

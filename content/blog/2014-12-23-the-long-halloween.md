@@ -1,6 +1,9 @@
 ---
 title: The Long Halloween
+slug: the-long-halloween
 date: 2014-12-23 16:40:00
+aliases:
+    - /2014/12/23/the-long-halloween/
 description: On the eve of Halloween, an early e-mail notified Coriant employees that a town hall meeting would be held at the company's premisses that same afternoon with one of our German overlords.
 ---
 

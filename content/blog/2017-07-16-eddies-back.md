@@ -1,6 +1,9 @@
 ---
 title: Eddie's Back!
+slug: eddies-back
 date: 2017-07-16 13:33:00
+aliases:
+    - /2017/07/16/eddies-back/
 description: I finally picked up my blog again. After 2 years of blatant neglect, I picked up the shambles of the (now) previous version and started from scratch.
 ---
 

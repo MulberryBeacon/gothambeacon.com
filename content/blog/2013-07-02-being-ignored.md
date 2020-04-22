@@ -1,6 +1,9 @@
 ---
 title: Being Ignored
+slug: being-ignored
 date: 2013-07-02 14:30:00
+aliases:
+    - /2013/07/02/being-ignored/
 description: I hate being ignored. It's one of my (many) pet peeves. Unfortunately, it's precisely the kind of antics seen in many technical recruiters.
 ---
 

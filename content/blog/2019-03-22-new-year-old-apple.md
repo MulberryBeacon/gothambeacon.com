@@ -1,6 +1,9 @@
 ---
 title: New Year, Old Apple
+slug: new-year-old-apple
 date: 2019-03-22 21:00:00
+aliases:
+    - /2019/03/22/new-year-old-apple/
 description: 2018 was widely considered a disappointing year for Apple on several fronts and most of its casual and power users were hoping that 2019 would present itself as a sort of rebirth for the company.
 ---
 

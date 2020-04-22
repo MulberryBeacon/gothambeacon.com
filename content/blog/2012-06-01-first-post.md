@@ -1,6 +1,9 @@
 ---
 title: First post!
+slug: first-post
 date: 2012-06-01 19:18:00
+aliases:
+    - /2012/06/01/first-post/
 description: After months of hesitation (due to both work and personal issues), I finally went ahead and created this modest web site.
 ---
 

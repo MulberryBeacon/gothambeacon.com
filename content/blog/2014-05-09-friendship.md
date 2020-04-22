@@ -1,6 +1,9 @@
 ---
 title: Friendship
+slug: friendship
 date: 2014-05-09 16:40:00
+aliases:
+    - /2014/05/09/friendship/
 description: I've been thinking about the meaning of friendship.
 ---
 

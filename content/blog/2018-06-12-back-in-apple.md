@@ -1,6 +1,9 @@
 ---
 title: Back in Apple
+slug: back-in-apple
 date: 2018-06-12 20:00:00
+aliases:
+    - /2018/06/12/back-in-apple/
 description: After two years away from Apple devices (aside from occasionally using the household iPad), I’m now back in full force.
 ---
 

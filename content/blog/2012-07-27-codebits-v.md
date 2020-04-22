@@ -1,6 +1,9 @@
 ---
 title: Codebits V
+slug: codebits-v
 date: 2012-07-27 17:01:00
+aliases:
+    - /2012/07/27/codebits-v/
 description: I'd been planning to do this since the beginning of 2012, but so much happened over the past eight months that it sort of slipped down the pecking order on my ToDo list.
 ---
 

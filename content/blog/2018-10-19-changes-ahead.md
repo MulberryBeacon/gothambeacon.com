@@ -1,6 +1,9 @@
 ---
 title: Changes Ahead
+slug: changes-ahead
 date: 2018-10-19 20:00:00
+aliases:
+    - /2018/10/19/changes-ahead/
 description: My blog is straightforward. Technically speaking, I use the minimum amount of CSS (70 bytes minified) and JavaScript (none, actually) to define a simple layout. I'm currently using Hugo as the underlying framework to generate a static site and GitHub Pages for hosting.
 ---
 

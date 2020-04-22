@@ -9,10 +9,10 @@
         "Subtitle": "The ramblings of an aging Bruce Wayne"
     },
     "permalinks": {
-        "blog": "/blog/:year/:month/:day/:title/",
-        "links": "/links/:year/:month/:day/:title/",
-        "quotes": "/quotes/:year/:month/:day/:title/",
-        "tech": "/tech/:year/:month/:day/:title/"
+        "blog": "/:section/:year/:month/:day/:slug/",
+        "links": "/:section/:year/:month/:day/:slug/",
+        "quotes": "/:section/:year/:month/:day/:slug/",
+        "tech": "/:section/:year/:month/:day/:slug/"
     },
     "pluralizeListTitles": false,
     "title": "Gotham Beacon"

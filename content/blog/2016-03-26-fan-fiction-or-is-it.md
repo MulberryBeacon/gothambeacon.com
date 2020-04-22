@@ -1,6 +1,9 @@
 ---
 title: Fan Fiction. Or Is It?
+slug: fan-fiction-or-is-it
 date: 2016-03-26 23:00:00
+aliases:
+    - /2016/03/26/fan-fiction.-or-is-it/
 description: I've always been conflicted about fan fiction. A mix of having so much stuff to read from well known authors and not bothering to look for high quality fan fiction (it's out there if you look long and hard) has led me to ignore it almost completely.
 ---
 

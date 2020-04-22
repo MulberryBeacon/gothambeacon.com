@@ -1,6 +1,9 @@
 ---
 title: The Front End Developer Cometh
+slug: the-front-end-developer-cometh
 date: 2017-07-19 20:00:00
+aliases:
+    - /2017/07/19/the-front-end-developer-cometh/
 description: I've reinvented myself a few times throughout my career and it's that time again. Over the next four months, I'll be working as a full-time front end developer.
 ---
 

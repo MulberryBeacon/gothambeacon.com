@@ -1,6 +1,9 @@
 ---
 title: The Home Office (Software Edition)
+slug: the-home-office-software-edition
 date: 2019-04-21 20:00:00
+aliases:
+    - /2019/04/21/the-home-office-software-edition/
 description: With the desktop PC in place, the next step was to rethink my software infrastructure. That meant reviewing the way I work and watch media content at home to choose the right software to make everything as flawless as possible.
 ---
 

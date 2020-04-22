@@ -1,6 +1,9 @@
 ---
 title: The Shackles of Social Networks
+slug: the-shackles-of-social-networks
 date: 2014-02-19 11:30:00
+aliases:
+    - /2014/02/19/the-shackles-of-social-networks/
 description: Social networks can be a blessing for information hungry people like myself.
 ---
 

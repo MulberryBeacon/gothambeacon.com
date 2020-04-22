@@ -1,6 +1,9 @@
 ---
 title: The Times They Are a Changin'
+slug: the-times-they-are-a-changin
 date: 2013-01-14 14:24:00
+aliases:
+    - /2013/01/14/the-times-they-are-a-changin/
 description: The New Year is upon us and it'll certainly go down in history as a year of hardship and sacrifice in Portugal. And here's why.
 ---
 
