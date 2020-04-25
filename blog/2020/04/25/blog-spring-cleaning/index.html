@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="author" content="Eduardo Ferreira">
+      <meta name="description" content="Gotham Beacon contains the ramblings of an aging Bruce Wayne.">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>Gotham Beacon</title>
+
+      <link rel="stylesheet" type="text/css" href="/css/stylesheet.min.css">
+  </head>
+  <body>
+      <header>
+          <h1><a href="https://gothambeacon.com">Gotham Beacon</a></h1>
+      </header>
+      <hr>
+      
+<section>
+    <h3>(Blog) Spring Cleaning</h3>
+    <article>
+        <p>While trying to publish my last post, I realized that my blog was completely broken. It had been a year since I used <a href="https://gohugo.io/">Hugo</a> and I downloaded its latest version to build the blog. Alas, my templates were &ldquo;outdated&rdquo; and could no longer be used to generate static pages. I wanted to change quite a few things in the layout, so I took this as a positive reinforcement (Pavlovian pun intended).</p>
+<p>It was a struggle to get it up and running, though. Confusion best describes my first 10-minute impression of the Hugo documentation. There aren&rsquo;t enough examples of the API to explain some of its methods. A few tutorials on YouTube did the trick for me and I understood the changes I needed to make in my templates.</p>
+<p>I realized that diving straight back into the documentation was a mistake. I should&rsquo;ve started with the basics and build my way up to the constructs I needed to fix my templates. Mind you, the documentation still seems geared towards more advanced users. Previous experience with other static website frameworks and a generous level of tech-savviness seems like a hefty price of entry.</p>
+<p>Anyway, the blog is now working and the deployment process is simple enough. This removes any excuse for not writing.</p>
+
+    </article>
+</section>
+
+      <hr>
+      <footer>
+          <p>&copy; Copyright 2012-<span id="year"></span>, <a href="https://mulberrybeacon.com">Eduardo Ferreira</a>
+          <br>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
+          <br>Powered by <a href="https://github.com/gohugoio/hugo">Hugo</a> and <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32484218-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-32484218-1');
+      </script>
+      <script>
+        (function () {
+          var field = document.getElementById('year');
+          if (field) {
+            field.textContent = new Date().getFullYear();
+          }
+        })()
+      </script>
+  </body>
+</html>

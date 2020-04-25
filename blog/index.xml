@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Gotham Beacon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 09:30:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gothambeacon.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>(Blog) Spring Cleaning</title>
+      <link>https://gothambeacon.com/blog/2020/04/25/blog-spring-cleaning/</link>
+      <pubDate>Sat, 25 Apr 2020 09:30:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/blog/2020/04/25/blog-spring-cleaning/</guid>
+      <description>While trying to publish my last post, I realized that my blog was completely broken. It had been a year since I used Hugo and I downloaded its latest version to build the blog. Alas, my templates were &amp;ldquo;outdated&amp;rdquo; and could no longer be used to generate static pages. I wanted to change quite a few things in the layout, so I took this as a positive reinforcement (Pavlovian pun intended).</description>
+    </item>
     
     <item>
       <title>The World is Dead. Long Live the World.</title>
