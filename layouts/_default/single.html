@@ -1,6 +1,8 @@
 {{ define "main" }}
 <section>
-    <h3>{{ .Title }}</h3>
+    <h2>{{ .Title }}</h2>
+    <div class="date">Published On: {{ .PublishDate.Format "02/01/2006 15:04:05 BST" }}</div>
+    <div class="date">Last Modified: {{ .Lastmod.Format "02/01/2006 15:04:05 BST" }}</div>
     <article>
         {{ .Content }}
     </article>
