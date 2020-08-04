@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on Gotham Beacon</title>
+    <link>https://gothambeacon.com/quotes/</link>
+    <description>Recent content in Quotes on Gotham Beacon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 21:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gothambeacon.com/quotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>H. G. Wells</title>
+      <link>https://gothambeacon.com/quotes/2020/08/04/wells/</link>
+      <pubDate>Tue, 04 Aug 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://gothambeacon.com/quotes/2020/08/04/wells/</guid>
+      <description>Great and strange ideas transcending experience often have less effect upon men and women than smaller, more tangible considerations.
+&amp;ldquo;The Invisible Man&amp;rdquo;, H. G. Wells</description>
+    </item>
+    
+  </channel>
+</rss>
