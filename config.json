@@ -1,19 +1,47 @@
 {
-    "baseurl": "https://gothambeacon.com",
-    "enableEmoji": true,
-    "enableRobotsTXT": true,
-    "googleAnalytics": "UA-32484218-1",
-    "languageCode": "en-us",
-    "params": {
-        "AuthorName": "Eduardo Ferreira",
-        "Subtitle": "The ramblings of an aging Bruce Wayne"
-    },
-    "permalinks": {
-        "blog": "/:section/:year/:month/:day/:slug/",
-        "links": "/:section/:year/:month/:day/:slug/",
-        "quotes": "/:section/:year/:month/:day/:slug/",
-        "tech": "/:section/:year/:month/:day/:slug/"
-    },
-    "pluralizeListTitles": false,
-    "title": "Gotham Beacon"
+  "baseurl": "https://gothambeacon.com",
+  "enableEmoji": true,
+  "enableRobotsTXT": true,
+  "googleAnalytics": "UA-32484218-1",
+  "languageCode": "en-us",
+  "menu": {
+    "main": [
+      {
+        "identifier": "blog",
+        "name": "Blog",
+        "title": "Blog",
+        "url": "/blog/"
+      },
+      {
+        "identifier": "links",
+        "name": "Links",
+        "title": "Links",
+        "url": "/links/"
+      },
+      {
+        "identifier": "quotes",
+        "name": "Quotes",
+        "title": "Quotes",
+        "url": "/quotes/"
+      },
+      {
+        "identifier": "tech",
+        "name": "Technology",
+        "title": "Technology",
+        "url": "/tech/"
+      }
+    ]
+  },
+  "params": {
+    "AuthorName": "Eduardo Ferreira",
+    "Subtitle": "The ramblings of an aging Bruce Wayne"
+  },
+  "permalinks": {
+    "blog": "/:section/:year/:month/:day/:slug/",
+    "links": "/:section/:year/:month/:day/:slug/",
+    "quotes": "/:section/:year/:month/:day/:slug/",
+    "tech": "/:section/:year/:month/:day/:slug/"
+  },
+  "pluralizeListTitles": false,
+  "title": "Gotham Beacon"
 }
