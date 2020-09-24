@@ -23,7 +23,7 @@ I faced the madness that was Black Friday (week) and Cyber Monday (week) and eme
 
 * Storage: [Samsung 970 EVO NVMe 500 GB][ssd]
 
-    An Amazon lightning deal on the brand new 970 EVO drives from Samsung made my choice easy. Pulled the trigger on the 500 GB model because it was the best for the buck deal.
+    An Amazon lightning deal on the brand new 970 EVO drives from Samsung made my choice easy. Pulled the trigger on the 500 GB model because it was the best bang for the buck deal.
 
 * Graphics Card: [ZOTAC GeForce GTX 1070 Ti AMP Edition][gpu]
 

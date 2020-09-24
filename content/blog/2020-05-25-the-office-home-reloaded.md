@@ -14,4 +14,3 @@ Late last year, I started contemplating my flawed approach to data management. T
 [noctua]: https://noctua.at/en/nh-d15
 [corsair]: https://www.corsair.com/us/en/Categories/Products/Memory/VENGEANCE%C2%AE-LPX-32GB-%282-x-16GB%29-DDR4-DRAM-3000MHz-C15-Memory-Kit-%E2%80%93-White/p/CMK32GX4M2B3000C15W
 [seagate]: https://www.seagate.com/gb/en/internal-hard-drives/hdd/ironwolf/
-
