@@ -2,7 +2,6 @@
   "baseurl": "https://gothambeacon.com",
   "enableEmoji": true,
   "enableRobotsTXT": true,
-  "googleAnalytics": "UA-32484218-1",
   "languageCode": "en-us",
   "menu": {
     "main": [
